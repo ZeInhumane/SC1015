@@ -21,11 +21,11 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2013,NTU,"College of Humanities, Arts & Social Sciences",Linguistics and Multilingual Studies,90.6,81.3,2691,2600,2725,2625,2475,3018,linguistics and multilingual studies,0,Arts and Humanities
 2013,NTU,"College of Humanities, Arts & Social Sciences",Psychology,82.4,71.8,3007,3000,3061,3000,2750,3255,psychology,0,Social Sciences
 2013,NTU,"College of Humanities, Arts & Social Sciences",Sociology,74.4,55.8,2980,3000,3082,3100,2800,3310,sociology,0,Social Sciences
-2013,NTU,College of Sciences,Biomedical Sciences **,na,na,na,na,na,na,na,na,biomedical sciences,0,Medicine and Health Sciences
+2013,NTU,College of Sciences,Biomedical Sciences **,,,,,,,,,biomedical sciences,0,Medicine and Health Sciences
 2013,NTU,College of Sciences,Biomedical Sciences (Traditional Chinese Medicine) #,90.7,88.4,2840,2800,2883,2807,2700,3000,biomedical sciences (traditional chinese medicine),0,Medicine and Health Sciences
 2013,NTU,College of Sciences,Biological Sciences,78.6,68.1,2881,2900,3002,3000,2700,3250,biological sciences,0,Science
 2013,NTU,College of Sciences,Chemistry & Biological Chemistry,79.8,68.9,2993,3000,3083,3100,2800,3400,chemistry & biological chemistry,0,Science
-2013,NTU,College of Sciences,Mathematics & Economics **,na,na,na,na,na,na,na,na,mathematics & economics,0,Mathematics and Statistics
+2013,NTU,College of Sciences,Mathematics & Economics **,,,,,,,,,mathematics & economics,0,Mathematics and Statistics
 2013,NTU,College of Sciences,Mathematical Science,86,83.7,3169,3000,3262,3000,2750,3500,mathematical science,0,Science
 2013,NTU,College of Sciences,Physics / Applied Physics,80.8,69.2,3164,3000,3208,3300,2900,3400,physics / applied physics,0,Science
 2013,NTU,College of Sciences,Sports Science and Management,68.2,59.1,2968,3000,2985,3000,2700,3400,sports science and management,0,Business and Management
@@ -39,14 +39,14 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2013,NUS,NUS Business School,Bachelor of Business Administration (Accountancy),93.3,88.9,2740,2700,2922,2700,2700,3018,bachelor of business administration (accountancy),0,Business and Management
 2013,NUS,NUS Business School,Bachelor of Business Administration (Accountancy) (Hons),97.2,94.4,3065,2800,3143,2800,2700,3200,bachelor of business administration (accountancy),1,Business and Management
 2013,NUS,School of Computing,Bachelor of Computing (Communications and Media),88.9,77.8,3350,3000,3377,3050,2825,3425,bachelor of computing (communications and media),0,Arts and Humanities
-2013,NUS,School of Computing,Bachelor of Computing (Computational Biology) **,na,na,na,na,na,na,na,na,bachelor of computing (computational biology),0,Computer Science and IT
-2013,NUS,School of Computing,Bachelor of Computing (Computer Engineering) **,na,na,na,na,na,na,na,na,bachelor of computing (computer engineering),0,Engineering
+2013,NUS,School of Computing,Bachelor of Computing (Computational Biology) **,,,,,,,,,bachelor of computing (computational biology),0,Computer Science and IT
+2013,NUS,School of Computing,Bachelor of Computing (Computer Engineering) **,,,,,,,,,bachelor of computing (computer engineering),0,Engineering
 2013,NUS,School of Computing,Bachelor of Computing (Computer Science),92.4,83.3,3933,3400,3953,3425,3000,4000,bachelor of computing (computer science),0,Computer Science and IT
 2013,NUS,School of Computing,Bachelor of Computing (Electronic Commerce),88.9,83.3,3277,3050,3320,3080,2800,3553,bachelor of computing (electronic commerce),0,Computer Science and IT
 2014,NTU,College of Engineering,Aerospace Engineering,84.6,82.7,3715,3700,3911,3770,3300,4070,aerospace engineering,0,Engineering
 2013,NUS,School of Computing,Bachelor of Computing (Information Systems),89.2,83.9,3266,3000,3322,3005,3000,3800,bachelor of computing (information systems),0,Computer Science and IT
 2013,NUS,Faculty of Dentistry,Bachelor of Dental Surgery,100,100,4106,4000,4106,4000,4000,4400,bachelor of dental surgery,0,Medicine and Health Sciences
-2013,NUS,School of Design & Environment,Bachelor of Arts (Architecture) ** #,na,na,na,na,na,na,na,na,bachelor of arts (architecture),0,Others
+2013,NUS,School of Design & Environment,Bachelor of Arts (Architecture) ** #,,,,,,,,,bachelor of arts (architecture),0,Others
 2013,NUS,School of Design & Environment,Bachelor of Arts (Industrial Design),82.1,53.6,3007,2650,3023,2650,2400,3000,bachelor of arts (industrial design),0,Design and Media
 2013,NUS,School of Design & Environment,Bachelor of Science (Project and Facilities Management),96.8,96.8,2961,2980,3025,3000,2800,3200,bachelor of science (project and facilities management),0,Business and Management
 2013,NUS,School of Design & Environment,Bachelor of Science (Real Estate),89.2,89.2,2839,2800,2988,2900,2600,3179,bachelor of science (real estate),0,Science
@@ -64,12 +64,12 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2013,NUS,YLL School of Medicine,Bachelor of Medicine and Bachelor of Surgery (MBBS) #,100,100,4406,4500,4741,4500,4500,5200,bachelor of medicine and bachelor of surgery (mbbs),0,Medicine and Health Sciences
 2013,NUS,YLL School of Medicine,Bachelor of Science (Nursing),97.5,97.5,2687,2750,2886,2950,2700,3050,bachelor of science (nursing),0,Science
 2013,NUS,YLL School of Medicine,Bachelor of Science (Nursing) (Hons),100,100,2896,3000,3042,3025,3000,3200,bachelor of science (nursing),1,Science
-2013,NUS,Yong Siew Toh Conservatory of Music,Bachelor of Music **,na,na,na,na,na,na,na,na,bachelor of music,0,Others
-2013,NUS,Faculty of Science,Bachelor of Applied Science **,na,na,na,na,na,na,na,na,bachelor of applied science,0,Science
+2013,NUS,Yong Siew Toh Conservatory of Music,Bachelor of Music **,,,,,,,,,bachelor of music,0,Others
+2013,NUS,Faculty of Science,Bachelor of Applied Science **,,,,,,,,,bachelor of applied science,0,Science
 2013,NUS,Faculty of Science,Bachelor of Applied Science (Hons),97.3,97.3,2850,2750,2925,2900,2600,3255,bachelor of applied science,1,Science
 2013,NUS,Faculty of Science,Bachelor of Science,80.9,65.1,2726,2700,2804,2800,2600,3000,bachelor of science,0,Science
 2013,NUS,Faculty of Science,Bachelor of Science (Hons),83.6,74,3101,3000,3217,3100,2868,3500,bachelor of science,1,Science
-2013,NUS,Faculty of Science,Bachelor of Science (Computational Biology) **,na,na,na,na,na,na,na,na,bachelor of science (computational biology),0,Science
+2013,NUS,Faculty of Science,Bachelor of Science (Computational Biology) **,,,,,,,,,bachelor of science (computational biology),0,Science
 2013,NUS,Faculty of Science,Bachelor of Science (Pharmacy) (Hons) #,96.4,96.4,3473,3500,3540,3500,3350,3750,bachelor of science (pharmacy),1,Medicine and Health Sciences
 2013,SMU,School of Accountancy (4-year programme) *,Accountancy,94.2,93.2,3231,2800,3342,2825,2700,3430,accountancy,0,Business and Management
 2013,SMU,School of Accountancy (4-year programme) *,Accountancy Cum Laude and above,95.2,95.2,3580,2900,3634,3000,2700,3750,accountancy cum laude and above,0,Business and Management
@@ -104,7 +104,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2014,NTU,"College of Humanities, Arts & Social Sciences",Linguistics and Multilingual Studies,85.7,66.7,3066,3000,3148,3230,2800,3500,linguistics and multilingual studies,0,Arts and Humanities
 2014,NTU,"College of Humanities, Arts & Social Sciences",Psychology,66.7,54.9,3197,3100,3228,3100,2800,3500,psychology,0,Social Sciences
 2014,NTU,"College of Humanities, Arts & Social Sciences",Sociology,73.2,67.9,3002,3000,3143,3100,2800,3260,sociology,0,Social Sciences
-2014,NTU,College of Sciences,Biomedical Science **,na,na,na,na,na,na,na,na,biomedical science,0,Science
+2014,NTU,College of Sciences,Biomedical Science **,,,,,,,,,biomedical science,0,Science
 2014,NTU,College of Sciences,Biomedical Science (Traditional Chinese Medicine) #,100,100,2974,2900,3018,2900,2786,3400,biomedical science (traditional chinese medicine),0,Science
 2014,NTU,College of Sciences,Biological Sciences,75.1,60.8,3083,3000,3174,3000,2800,3400,biological sciences,0,Science
 2014,NTU,College of Sciences,Chemistry & Biological Chemistry,80.5,68.3,3006,3000,3321,3100,2800,3400,chemistry & biological chemistry,0,Science
@@ -122,8 +122,8 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2014,NUS,NUS Business School,Bachelor of Business Administration (Accountancy),93.9,89.8,2836,2800,2989,2838,2700,3000,bachelor of business administration (accountancy),0,Business and Management
 2014,NUS,NUS Business School,Bachelor of Business Administration (Accountancy) (Hons),100,96.3,3350,2850,3407,2912,2800,3614,bachelor of business administration (accountancy),1,Business and Management
 2014,NUS,School of Computing,Bachelor of Computing (Communications and Media),82.1,82.1,3107,3000,3129,3088,2900,3300,bachelor of computing (communications and media),0,Arts and Humanities
-2014,NUS,School of Computing,Bachelor of Computing (Computational Biology) **,na,na,na,na,na,na,na,na,bachelor of computing (computational biology),0,Computer Science and IT
-2014,NUS,School of Computing,Bachelor of Computing (Computer Engineering) **,na,na,na,na,na,na,na,na,bachelor of computing (computer engineering),0,Engineering
+2014,NUS,School of Computing,Bachelor of Computing (Computational Biology) **,,,,,,,,,bachelor of computing (computational biology),0,Computer Science and IT
+2014,NUS,School of Computing,Bachelor of Computing (Computer Engineering) **,,,,,,,,,bachelor of computing (computer engineering),0,Engineering
 2014,NUS,School of Computing,Bachelor of Computing (Computer Science),90.6,85.9,3729,3500,3712,3500,3300,4000,bachelor of computing (computer science),0,Computer Science and IT
 2014,NUS,School of Computing,Bachelor of Computing (Electronic Commerce),85.7,85.7,3183,3000,3386,3200,3000,3500,bachelor of computing (electronic commerce),0,Computer Science and IT
 2014,NUS,School of Computing,Bachelor of Computing (Information Systems),95.5,92,3684,3352,3789,3500,3100,4039,bachelor of computing (information systems),0,Computer Science and IT
@@ -146,12 +146,12 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2014,NUS,YLL School of Medicine,Bachelor of Medicine and Bachelor of Surgery #,100,100,4404,4500,4886,5000,4500,5200,bachelor of medicine and bachelor of surgery,0,Medicine and Health Sciences
 2014,NUS,YLL School of Medicine,Bachelor of Science (Nursing),100,95.6,2976,3000,3188,3200,3050,3386,bachelor of science (nursing),0,Science
 2014,NUS,YLL School of Medicine,Bachelor of Science (Nursing) (Hons),100,100,3123,3270,3353,3500,3270,3600,bachelor of science (nursing),1,Science
-2014,NUS,Yong Siew Toh Conservatory of Music,Bachelor of Music **,na,na,na,na,na,na,na,na,bachelor of music,0,Others
-2014,NUS,Faculty of Science,Bachelor of Applied Science **,na,na,na,na,na,na,na,na,bachelor of applied science,0,Science
+2014,NUS,Yong Siew Toh Conservatory of Music,Bachelor of Music **,,,,,,,,,bachelor of music,0,Others
+2014,NUS,Faculty of Science,Bachelor of Applied Science **,,,,,,,,,bachelor of applied science,0,Science
 2014,NUS,Faculty of Science,Bachelor of Applied Science (Hons),95.5,81.8,2760,2750,2831,2800,2600,3000,bachelor of applied science,1,Science
 2014,NUS,Faculty of Science,Bachelor of Science,76.8,61.4,2804,2800,2973,3000,2700,3200,bachelor of science,0,Science
 2014,NUS,Faculty of Science,Bachelor of Science (Hons),86.6,75.8,3224,3200,3328,3210,2950,3600,bachelor of science,1,Science
-2014,NUS,Faculty of Science,Bachelor of Science (Computational Biology) **,na,na,na,na,na,na,na,na,bachelor of science (computational biology),0,Science
+2014,NUS,Faculty of Science,Bachelor of Science (Computational Biology) **,,,,,,,,,bachelor of science (computational biology),0,Science
 2014,NUS,Faculty of Science,Bachelor of Science (Pharmacy) (Hons) #,98.9,96.7,3467,3500,3670,3630,3470,4000,bachelor of science (pharmacy),1,Medicine and Health Sciences
 2014,SMU,School of Accountancy (4-year programme) *,Accountancy,93.6,91.4,3375,2850,3420,2875,2722,3614,accountancy,0,Business and Management
 2014,SMU,School of Accountancy (4-year programme) *,Accountancy Cum Laude and above,97.4,96.1,3871,3450,3903,3500,2875,4300,accountancy cum laude and above,0,Business and Management
@@ -192,22 +192,22 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2015,NTU,College of Business (Nanyang Business School),Bachelor of Accountancy (Hons),97.3,96.5,3182,2850,3240,2875,2850,3125,bachelor of accountancy,1,Business and Management
 2015,NTU,College of Business (Nanyang Business School),Bachelor of Business (Hons),92.2,87.6,3343,3100,3502,3200,2900,3700,bachelor of business,1,Business and Management
 2015,NTU,College of Engineering,Aerospace Engineering,86,86,3699,3650,3724,3700,3450,4000,aerospace engineering,0,Engineering
-2015,NTU,College of Engineering,Aerospace Engineering and Economics **,na,na,na,na,na,na,na,na,aerospace engineering and economics,0,Engineering
+2015,NTU,College of Engineering,Aerospace Engineering and Economics **,,,,,,,,,aerospace engineering and economics,0,Engineering
 2015,NTU,College of Engineering,Bioengineering,92.6,76.5,3079,3000,3197,3113,2900,3450,bioengineering,0,Engineering
-2015,NTU,College of Engineering,Business and Computer Engineering **,na,na,na,na,na,na,na,na,business and computer engineering,0,Engineering
+2015,NTU,College of Engineering,Business and Computer Engineering **,,,,,,,,,business and computer engineering,0,Engineering
 2015,NTU,College of Engineering,Chemical And Biomolecular Engineering,86.8,80.9,3156,3100,3373,3300,3000,3600,chemical and biomolecular engineering,0,Engineering
-2015,NTU,College of Engineering,Chemical And Biomolecular Engineering and Economics **,na,na,na,na,na,na,na,na,chemical and biomolecular engineering and economics,0,Engineering
+2015,NTU,College of Engineering,Chemical And Biomolecular Engineering and Economics **,,,,,,,,,chemical and biomolecular engineering and economics,0,Engineering
 2015,NTU,College of Engineering,Computer Engineering,85.1,83,3489,3350,3577,3500,3200,4000,computer engineering,0,Engineering
 2015,NTU,College of Engineering,Civil Engineering,95.3,93,3125,3100,3206,3200,3000,3300,civil engineering,0,Engineering
 2015,NTU,College of Engineering,Computer Science,92.4,91.4,3489,3300,3535,3300,3150,3800,computer science,0,Computer Science and IT
 2015,NTU,College of Engineering,Electrical And Electronic Engineering,88.6,86.2,3345,3200,3446,3300,3000,3690,electrical and electronic engineering,0,Engineering
 2015,NTU,College of Engineering,Environmental Engineering,89.7,82.1,3472,3200,3673,3300,3000,3835,environmental engineering,0,Science
-2015,NTU,College of Engineering,Environmental Engineering and Economics **,na,na,na,na,na,na,na,na,environmental engineering and economics,0,Science
+2015,NTU,College of Engineering,Environmental Engineering and Economics **,,,,,,,,,environmental engineering and economics,0,Science
 2015,NTU,College of Engineering,Information Engineering And Media,87.3,80,3271,3200,3375,3275,3000,3500,information engineering and media,0,Engineering
-2015,NTU,College of Engineering,Information Engineering And Media and Economics **,na,na,na,na,na,na,na,na,information engineering and media and economics,0,Engineering
+2015,NTU,College of Engineering,Information Engineering And Media and Economics **,,,,,,,,,information engineering and media and economics,0,Engineering
 2015,NTU,College of Engineering,Materials Engineering,82.9,76.8,3213,3100,3397,3200,3000,3600,materials engineering,0,Engineering
 2015,NTU,College of Engineering,Mechanical Engineering,88,80.7,3248,3200,3388,3250,3000,3600,mechanical engineering,0,Engineering
-2015,NTU,College of Engineering,Mechanical Engineering and Economics **,na,na,na,na,na,na,na,na,mechanical engineering and economics,0,Engineering
+2015,NTU,College of Engineering,Mechanical Engineering and Economics **,,,,,,,,,mechanical engineering and economics,0,Engineering
 2015,NTU,College of Engineering,Maritime Studies,95,95,3249,3200,3271,3200,3000,3300,maritime studies,0,Engineering
 2015,NTU,"College of Humanities, Arts & Social Sciences","Art, Design & Media",79.3,56.9,3284,2800,3457,2800,2200,3000,"art, design & media",0,Design and Media
 2015,NTU,"College of Humanities, Arts & Social Sciences",Chinese,81.8,76.6,2978,3000,3045,3200,2800,3500,chinese,0,Arts and Humanities
@@ -234,8 +234,8 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2015,NUS,NUS Business School,Bachelor of Business Administration (Accountancy),97.6,97.6,2817,2850,2983,2850,2700,2960,bachelor of business administration (accountancy),0,Business and Management
 2015,NUS,NUS Business School,Bachelor of Business Administration (Accountancy) (Hons),98.6,98.6,3547,3000,3587,3000,2850,3634,bachelor of business administration (accountancy),1,Business and Management
 2015,NUS,School of Computing,Bachelor of Computing (Communications and Media),92.6,85.2,3230,3500,3291,3500,2800,3800,bachelor of computing (communications and media),0,Arts and Humanities
-2015,NUS,School of Computing,Bachelor of Computing (Computational Biology) **,na,na,na,na,na,na,na,na,bachelor of computing (computational biology),0,Computer Science and IT
-2015,NUS,School of Computing,Bachelor of Computing (Computer Engineering) **,na,na,na,na,na,na,na,na,bachelor of computing (computer engineering),0,Engineering
+2015,NUS,School of Computing,Bachelor of Computing (Computational Biology) **,,,,,,,,,bachelor of computing (computational biology),0,Computer Science and IT
+2015,NUS,School of Computing,Bachelor of Computing (Computer Engineering) **,,,,,,,,,bachelor of computing (computer engineering),0,Engineering
 2015,NUS,School of Computing,Bachelor of Computing (Computer Science),97,95,3847,3700,3890,3700,3300,4400,bachelor of computing (computer science),0,Computer Science and IT
 2015,NUS,School of Computing,Bachelor of Computing (Electronic Commerce),90.3,87.1,3255,3300,3301,3300,3000,3500,bachelor of computing (electronic commerce),0,Computer Science and IT
 2015,NUS,School of Computing,Bachelor of Computing (Information Systems),97.2,97.2,3597,3500,3699,3550,3200,4100,bachelor of computing (information systems),0,Computer Science and IT
@@ -259,11 +259,11 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2015,NUS,YLL School of Medicine,Bachelor of Science (Nursing),97.3,97.3,3175,3200,3356,3400,3200,3445,bachelor of science (nursing),0,Science
 2015,NUS,YLL School of Medicine,Bachelor of Science (Nursing) (Hons),100,100,3219,3200,3466,3435,3300,3700,bachelor of science (nursing),1,Science
 2015,NUS,Yong Siew Toh Conservatory of Music,Bachelor of Music,82.4,41.2,3244,3200,3344,3300,3000,3600,bachelor of music,0,Others
-2015,NUS,Faculty of Science,Bachelor of Applied Science **,na,na,na,na,na,na,na,na,bachelor of applied science,0,Science
+2015,NUS,Faculty of Science,Bachelor of Applied Science **,,,,,,,,,bachelor of applied science,0,Science
 2015,NUS,Faculty of Science,Bachelor of Applied Science (Hons),85.2,77.8,3203,3000,3355,3100,3000,4000,bachelor of applied science,1,Science
 2015,NUS,Faculty of Science,Bachelor of Science,84.3,64.2,2859,2900,3052,3000,2620,3200,bachelor of science,0,Science
 2015,NUS,Faculty of Science,Bachelor of Science (Hons),83.9,76.2,3245,3200,3321,3300,3000,3600,bachelor of science,1,Science
-2015,NUS,Faculty of Science,Bachelor of Science (Computational Biology) **,na,na,na,na,na,na,na,na,bachelor of science (computational biology),0,Science
+2015,NUS,Faculty of Science,Bachelor of Science (Computational Biology) **,,,,,,,,,bachelor of science (computational biology),0,Science
 2015,NUS,Faculty of Science,Bachelor of Science (Pharmacy) (Hons) #,99,97.9,3431,3500,3717,3500,3400,3929,bachelor of science (pharmacy),1,Medicine and Health Sciences
 2015,NUS,Multi-Disciplinary Programme,Bachelor of Environmental Studies,71.9,59.4,3400,3462,3433,3500,3238,3550,bachelor of environmental studies,0,Science
 2015,SMU,School of Accountancy (4-year programme) *,Accountancy,97.3,93,3287,2900,3427,3000,2850,3500,accountancy,0,Business and Management
@@ -278,13 +278,13 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2015,SMU,School of Social Sciences (4-year programme) *,Social Sciences Cum Laude and above,93.1,89.7,3887,3500,4012,3560,3300,4583,social sciences cum laude and above,0,Science
 2015,SMU,School of Law (4-year programme) *,Law #,99,99,4889,4600,4997,4731,4350,5800,law,0,Law
 2015,SMU,School of Law (4-year programme) *,Law Cum Laude and above #,100,100,5160,4766,5313,5000,4500,5995,law cum laude and above,0,Law
-2015,SUTD,na,Bachelor of Engineering (Engineering Product Development),92.5,88.1,3595,3618,3565,3600,3400,3800,bachelor of engineering (engineering product development),0,Engineering
-2015,SUTD,na,Bachelor of Engineering (Engineering Systems and Design),80.3,71.8,3699,3450,3763,3500,3190,4100,bachelor of engineering (engineering systems and design),0,Engineering
-2015,SUTD,na,Bachelor of Engineering (Information Systems Technology and Design),86,83.7,3872,3700,3952,3950,3338,4450,bachelor of engineering (information systems technology and design),0,Computer Science and IT
-2015,SUTD,na,Bachelor of Science (Architecture and Sustainable Design) ###,na,na,na,na,na,na,na,na,bachelor of science (architecture and sustainable design),0,Others
-2015,SIT,DigiPen Institute of Technology,Bachelor of Arts in Game Design **,na,na,na,na,na,na,na,na,bachelor of arts in game design,0,Design and Media
+2015,SUTD,,Bachelor of Engineering (Engineering Product Development),92.5,88.1,3595,3618,3565,3600,3400,3800,bachelor of engineering (engineering product development),0,Engineering
+2015,SUTD,,Bachelor of Engineering (Engineering Systems and Design),80.3,71.8,3699,3450,3763,3500,3190,4100,bachelor of engineering (engineering systems and design),0,Engineering
+2015,SUTD,,Bachelor of Engineering (Information Systems Technology and Design),86,83.7,3872,3700,3952,3950,3338,4450,bachelor of engineering (information systems technology and design),0,Computer Science and IT
+2015,SUTD,,Bachelor of Science (Architecture and Sustainable Design) ###,,,,,,,,,bachelor of science (architecture and sustainable design),0,Others
+2015,SIT,DigiPen Institute of Technology,Bachelor of Arts in Game Design **,,,,,,,,,bachelor of arts in game design,0,Design and Media
 2015,SIT,DigiPen Institute of Technology,Bachelor of Fine Arts in Digital Arts & Animation,88.5,65.4,2643,2700,2682,2700,2500,2800,bachelor of fine arts in digital arts & animation,0,Design and Media
-2015,SIT,DigiPen Institute of Technology,Bachelor of Science in Computer Science & Game Design **,na,na,na,na,na,na,na,na,bachelor of science in computer science & game design,0,Design and Media
+2015,SIT,DigiPen Institute of Technology,Bachelor of Science in Computer Science & Game Design **,,,,,,,,,bachelor of science in computer science & game design,0,Design and Media
 2015,SIT,DigiPen Institute of Technology,Bachelor of Science in Computer Science in Real-Time Interactive Simulation,95.2,90.5,3332,3200,3346,3233,3000,3500,bachelor of science in computer science in real-time interactive simulation,0,Computer Science and IT
 2015,SIT,The Glasgow School of Art,Bachelor of Arts with Honours in Communication Design,76.1,54.3,2896,2750,2922,2750,2523,2975,bachelor of arts with in communication design,1,Design and Media
 2015,SIT,The Glasgow School of Art,Bachelor of Arts with Honours in Interior Design,87.5,71.9,2520,2600,2893,2700,2500,3025,bachelor of arts with in interior design,1,Design and Media
@@ -301,7 +301,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2015,SIT,Singapore Institute of Technology -Trinity College Dublin,Bachelor in Science (Diagnostic Radiography),100,100,3322,3300,3486,3488,3313,3650,bachelor in science (diagnostic radiography),0,Medicine and Health Sciences
 2015,SIT,Trinity College Dublin,Bachelor in Science (Occupational Therapy),100,100,3126,3120,3149,3125,3000,3225,bachelor in science (occupational therapy),0,Medicine and Health Sciences
 2015,SIT,Trinity College Dublin,Bachelor in Science (Physiotherapy),100,98.3,3234,3200,3310,3222,3200,3500,bachelor in science (physiotherapy),0,Medicine and Health Sciences
-2015,SIT,Trinity College Dublin,Bachelor in Science (Radiation Therapy) **,na,na,na,na,na,na,na,na,bachelor in science (radiation therapy),0,Medicine and Health Sciences
+2015,SIT,Trinity College Dublin,Bachelor in Science (Radiation Therapy) **,,,,,,,,,bachelor in science (radiation therapy),0,Medicine and Health Sciences
 2015,SIT,University of Glasgow,Bachelor of Engineering with Honours in Aeronautical Engineering,81.6,73.7,2766,3000,2840,3000,2614,3293,bachelor of engineering with in aeronautical engineering,1,Engineering
 2015,SIT,University of Glasgow,Bachelor of Engineering with Honours in Aerospace Systems,83.3,70.8,3128,3000,3185,3000,2882,3300,bachelor of engineering with in aerospace systems,1,Engineering
 2015,SIT,University of Glasgow,Bachelor of Engineering with Honours in Mechanical Design Engineering,72.2,61.1,3160,3000,3685,3250,2960,4200,bachelor of engineering with in mechanical design engineering,1,Engineering
@@ -313,9 +313,9 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2016,NTU,College of Business (Nanyang Business School),Bachelor of Accountancy (Hons),97.3,95.1,3027,2900,3063,2900,2900,3100,bachelor of accountancy,1,Business and Management
 2016,NTU,College of Business (Nanyang Business School),Bachelor of Business (Hons),89.6,77.1,3348,3200,3444,3300,3000,3800,bachelor of business,1,Business and Management
 2016,NTU,College of Engineering,Aerospace Engineering,82.4,77.9,3761,3625,3840,3675,3350,4435,aerospace engineering,0,Engineering
-2016,NTU,College of Engineering,Aerospace Engineering and Economics **,na,na,na,na,na,na,na,na,aerospace engineering and economics,0,Engineering
+2016,NTU,College of Engineering,Aerospace Engineering and Economics **,,,,,,,,,aerospace engineering and economics,0,Engineering
 2016,NTU,College of Engineering,Bioengineering,77.8,63.9,3151,3200,3317,3237,3000,3510,bioengineering,0,Engineering
-2016,NTU,College of Engineering,Business and Computer Engineering **,na,na,na,na,na,na,na,na,business and computer engineering,0,Engineering
+2016,NTU,College of Engineering,Business and Computer Engineering **,,,,,,,,,business and computer engineering,0,Engineering
 2016,NTU,College of Engineering,Chemical And Biomolecular Engineering,80.6,72.6,3336,3225,3476,3400,3200,3800,chemical and biomolecular engineering,0,Engineering
 2016,NTU,College of Engineering,Civil Engineering,92.4,91.6,3407,3250,3505,3300,3200,3800,civil engineering,0,Engineering
 2016,NTU,College of Engineering,Computer Engineering,83.3,75.9,3792,3500,3833,3500,3300,4420,computer engineering,0,Engineering
@@ -325,9 +325,9 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2016,NTU,College of Engineering,Information Engineering And Media,94.6,87.5,3496,3350,3570,3350,3000,4000,information engineering and media,0,Engineering
 2016,NTU,College of Engineering,Maritime Studies,94.2,88.5,3305,3300,3328,3398,3083,3500,maritime studies,0,Engineering
 2016,NTU,College of Engineering,Materials Engineering,81.3,73.5,3197,3200,3317,3300,3000,3500,materials engineering,0,Engineering
-2016,NTU,College of Engineering,Materials Engineering and Economics **,na,na,na,na,na,na,na,na,materials engineering and economics,0,Engineering
+2016,NTU,College of Engineering,Materials Engineering and Economics **,,,,,,,,,materials engineering and economics,0,Engineering
 2016,NTU,College of Engineering,Mechanical Engineering,86,79.9,3417,3300,3505,3350,3050,3959,mechanical engineering,0,Engineering
-2016,NTU,College of Engineering,Mechanical Engineering and Economics **,na,na,na,na,na,na,na,na,mechanical engineering and economics,0,Engineering
+2016,NTU,College of Engineering,Mechanical Engineering and Economics **,,,,,,,,,mechanical engineering and economics,0,Engineering
 2016,NTU,"College of Humanities, Arts & Social Sciences","Art, Design & Media",79.7,46.6,2718,2700,2761,2700,2500,3000,"art, design & media",0,Design and Media
 2016,NTU,"College of Humanities, Arts & Social Sciences",Chinese,91.1,74.7,3239,3300,3345,3300,3050,3500,chinese,0,Arts and Humanities
 2016,NTU,"College of Humanities, Arts & Social Sciences",Communication Studies,87.7,69.6,2938,2900,2996,3000,2575,3365,communication studies,0,Arts and Humanities
@@ -336,7 +336,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2016,NTU,"College of Humanities, Arts & Social Sciences",History,87.2,76.6,3027,3000,3082,3000,2700,3500,history,0,Arts and Humanities
 2016,NTU,"College of Humanities, Arts & Social Sciences",Linguistics And Multilingual Studies,81.8,61.8,3283,3315,3368,3365,2960,3500,linguistics and multilingual studies,0,Arts and Humanities
 2016,NTU,"College of Humanities, Arts & Social Sciences",Psychology,82.1,66.7,3083,3100,3136,3200,2800,3500,psychology,0,Social Sciences
-2016,NTU,"College of Humanities, Arts & Social Sciences",Public Policy And Global Affairs **,na,na,na,na,na,na,na,na,public policy and global affairs,0,Social Sciences
+2016,NTU,"College of Humanities, Arts & Social Sciences",Public Policy And Global Affairs **,,,,,,,,,public policy and global affairs,0,Social Sciences
 2016,NTU,"College of Humanities, Arts & Social Sciences",Sociology,86.1,63.9,3279,3300,3480,3500,3000,3850,sociology,0,Social Sciences
 2016,NTU,College of Sciences,Biomedical Sciences & Chinese Medicine #,94.4,88.9,2525,2400,2577,2500,2150,2800,biomedical sciences & chinese medicine,0,Medicine and Health Sciences
 2016,NTU,College of Sciences,Biological Sciences,80.5,64,3132,3100,3222,3175,3000,3550,biological sciences,0,Science
@@ -362,19 +362,19 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2016,NUS,Faculty Of Engineering,Bachelor of Engineering (Materials Science And Engineering),90.2,78.4,3381,3300,3501,3540,3200,3900,bachelor of engineering (materials science and engineering),0,Engineering
 2016,NUS,Faculty Of Engineering,Bachelor of Engineering (Mechanical Engineering),86.6,81,3470,3300,3560,3400,3150,3800,bachelor of engineering (mechanical engineering),0,Engineering
 2016,NUS,Faculty of Law,Bachelor of Laws (L.L.B) (Hons) #,97.7,95.9,4844,4775,4898,4900,4200,5600,bachelor of laws (l.l.b),1,Law
-2016,NUS,Faculty of Science,Bachelor of Applied Science **,na,na,na,na,na,na,na,na,bachelor of applied science,0,Science
+2016,NUS,Faculty of Science,Bachelor of Applied Science **,,,,,,,,,bachelor of applied science,0,Science
 2016,NUS,Faculty of Science,Bachelor of Applied Science (Hons),81,61.9,2905,2800,3058,3130,2800,3350,bachelor of applied science,1,Science
 2016,NUS,Faculty of Science,Bachelor of Science,84.3,59.4,2895,3000,2995,3000,2600,3225,bachelor of science,0,Science
 2016,NUS,Faculty of Science,Bachelor of Science (Hons),84.9,71.7,3331,3300,3386,3300,3000,3650,bachelor of science,1,Science
-2016,NUS,Faculty of Science,Bachelor of Science (Computational Biology) **,na,na,na,na,na,na,na,na,bachelor of science (computational biology),0,Science
+2016,NUS,Faculty of Science,Bachelor of Science (Computational Biology) **,,,,,,,,,bachelor of science (computational biology),0,Science
 2016,NUS,Faculty of Science,Bachelor of Science (Pharmacy)(Hons) #,99.1,97.2,3500,3500,3597,3600,3300,3950,bachelor of science (pharmacy),1,Medicine and Health Sciences
 2016,NUS,NUS Business School,Bachelor of Business Administration,93.6,80.7,3232,3000,3282,3000,2837,3500,bachelor of business administration,0,Business and Management
 2016,NUS,NUS Business School,Bachelor of Business Administration (Hons),96.4,92.8,4126,3600,4207,3620,3258,4500,bachelor of business administration,1,Business and Management
 2016,NUS,NUS Business School,Bachelor of Business Administration (Accountancy),88.6,86.4,2977,2900,3020,2963,2800,3100,bachelor of business administration (accountancy),0,Business and Management
 2016,NUS,NUS Business School,Bachelor of Business Administration (Accountancy) (Hons),99,99,3435,3000,3465,3075,2900,3800,bachelor of business administration (accountancy),1,Business and Management
-2016,NUS,School of Computing,Bachelor of Computing (Communications And Media) **,na,na,na,na,na,na,na,na,bachelor of computing (communications and media),0,Arts and Humanities
+2016,NUS,School of Computing,Bachelor of Computing (Communications And Media) **,,,,,,,,,bachelor of computing (communications and media),0,Arts and Humanities
 2016,NUS,School of Computing,Bachelor of Computing (Computer Science),96.3,93.3,4320,4000,4385,4000,3500,5000,bachelor of computing (computer science),0,Computer Science and IT
-2016,NUS,School of Computing,Bachelor of Computing (Electronic Commerce) **,na,na,na,na,na,na,na,na,bachelor of computing (electronic commerce),0,Computer Science and IT
+2016,NUS,School of Computing,Bachelor of Computing (Electronic Commerce) **,,,,,,,,,bachelor of computing (electronic commerce),0,Computer Science and IT
 2016,NUS,School of Computing,Bachelor of Computing (Information Systems),94,94,3875,3800,3969,4000,3365,4500,bachelor of computing (information systems),0,Computer Science and IT
 2016,NUS,School of Design & Environment,Bachelor of Arts (Architecture) #,93.2,89.8,3926,4000,3960,4000,3500,4250,bachelor of arts (architecture),0,Others
 2016,NUS,School of Design & Environment,Bachelor of Arts (Industrial Design),90.6,65.6,3282,3000,3320,3000,2900,4000,bachelor of arts (industrial design),0,Design and Media
@@ -397,7 +397,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2016,SMU,School of Social Sciences (4-year programme) *,Social Sciences Cum Laude and above,94.9,87.2,3405,3300,3548,3400,3000,3668,social sciences cum laude and above,0,Science
 2016,SMU,School of Law (4-year programme) *,Law #,95.8,93.7,4810,4600,4915,4850,4200,5800,law,0,Law
 2016,SMU,School of Law (4-year programme) *,Law Cum Laude and above #,96.7,96.7,4950,4950,5095,5300,4500,5800,law cum laude and above,0,Law
-2016,SIT,DigiPen Institute of Technology,Bachelor of Arts in Game Design **,na,na,na,na,na,na,na,na,bachelor of arts in game design,0,Design and Media
+2016,SIT,DigiPen Institute of Technology,Bachelor of Arts in Game Design **,,,,,,,,,bachelor of arts in game design,0,Design and Media
 2016,SIT,DigiPen Institute of Technology,Bachelor of Fine Arts in Digital Arts & Animation,73.3,53.3,3045,3000,3052,3000,2700,3016,bachelor of fine arts in digital arts & animation,0,Design and Media
 2016,SIT,DigiPen Institute of Technology,Bachelor of Science in Computer Science & Game Design,85.7,85.7,3312,3400,3329,3400,3100,3500,bachelor of science in computer science & game design,0,Design and Media
 2016,SIT,DigiPen Institute of Technology,Bachelor of Science in Computer Science in Real-Time Interactive Simulation,100,92.9,3729,3680,3803,4000,3500,4200,bachelor of science in computer science in real-time interactive simulation,0,Computer Science and IT
@@ -416,7 +416,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2016,SIT,Trinity College Dublin / Singapore Institute of Technology-Trinity College Dublin,Bachelor in Science (Diagnostic Radiography),88.2,88.2,3406,3385,3628,3660,3400,3930,bachelor in science (diagnostic radiography),0,Medicine and Health Sciences
 2016,SIT,Trinity College Dublin / Singapore Institute of Technology-Trinity College Dublin,Bachelor in Science (Occupational Therapy),100,100,3297,3200,3301,3200,3100,3500,bachelor in science (occupational therapy),0,Medicine and Health Sciences
 2016,SIT,Trinity College Dublin / Singapore Institute of Technology-Trinity College Dublin,Bachelor in Science (Physiotherapy),100,100,3310,3300,3344,3300,3240,3500,bachelor in science (physiotherapy),0,Medicine and Health Sciences
-2016,SIT,Trinity College Dublin / Singapore Institute of Technology-Trinity College Dublin,Bachelor in Science (Radiation Therapy) **,na,na,na,na,na,na,na,na,bachelor in science (radiation therapy),0,Medicine and Health Sciences
+2016,SIT,Trinity College Dublin / Singapore Institute of Technology-Trinity College Dublin,Bachelor in Science (Radiation Therapy) **,,,,,,,,,bachelor in science (radiation therapy),0,Medicine and Health Sciences
 2016,SIT,University of Glasgow,Bachelor of Engineering with Honours in Aeronautical Engineering,81.6,65.3,3042,3000,3277,3200,2800,3700,bachelor of engineering with in aeronautical engineering,1,Engineering
 2016,SIT,University of Glasgow,Bachelor of Engineering with Honours in Aerospace Systems,82.2,64.4,3312,3225,3390,3275,2900,4009,bachelor of engineering with in aerospace systems,1,Engineering
 2016,SIT,University of Glasgow,Bachelor of Engineering with Honours in Mechanical Design Engineering,87,70.4,3187,3000,3273,3200,3000,3365,bachelor of engineering with in mechanical design engineering,1,Engineering
@@ -425,31 +425,31 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2016,SIT,University of Manchester,Bachelor of Science with Honours in Nursing Practice,92.7,85.5,3378,3400,3600,3600,3400,3750,bachelor of science with in nursing practice,1,Science
 2016,SIT,University of Liverpool,Bachelor of Arts with Honours in Criminology and Security,92.6,81.5,4096,4200,4131,4200,3700,4600,bachelor of arts with in criminology and security,1,Arts and Humanities
 2016,SIT,Wheelock College,Bachelor of Science in Early Childhood Education,98,92,2705,2700,2707,2700,2600,2850,bachelor of science in early childhood education,0,Education
-2016,SUTD,na,Bachelor of Engineering (Engineering Product Development),87,79.7,3620,3500,3690,3600,3300,3750,bachelor of engineering (engineering product development),0,Engineering
-2016,SUTD,na,Bachelor of Engineering (Information Systems Technology and Design),91.9,91.9,4197,4000,4232,4000,3500,4950,bachelor of engineering (information systems technology and design),0,Computer Science and IT
-2016,SUTD,na,Bachelor of Engineering (Engineering Systems and Design),100,93.5,3695,3600,3830,3650,3550,4200,bachelor of engineering (engineering systems and design),0,Engineering
-2016,SUTD,na,Bachelor of Science (Architecture and Sustainable Design) ###,na,na,na,na,na,na,na,na,bachelor of science (architecture and sustainable design),0,Others
+2016,SUTD,,Bachelor of Engineering (Engineering Product Development),87,79.7,3620,3500,3690,3600,3300,3750,bachelor of engineering (engineering product development),0,Engineering
+2016,SUTD,,Bachelor of Engineering (Information Systems Technology and Design),91.9,91.9,4197,4000,4232,4000,3500,4950,bachelor of engineering (information systems technology and design),0,Computer Science and IT
+2016,SUTD,,Bachelor of Engineering (Engineering Systems and Design),100,93.5,3695,3600,3830,3650,3550,4200,bachelor of engineering (engineering systems and design),0,Engineering
+2016,SUTD,,Bachelor of Science (Architecture and Sustainable Design) ###,,,,,,,,,bachelor of science (architecture and sustainable design),0,Others
 2017,NTU,College of Business (Nanyang Business School),Bachelor of Accountancy (Hons),97.1,94.5,3121,3000,3166,3000,2900,3100,bachelor of accountancy,1,Business and Management
 2017,NTU,College of Business (Nanyang Business School),Bachelor of Business (Hons),93,80.8,3530,3300,3643,3300,3000,3800,bachelor of business,1,Business and Management
 2017,NTU,College of Engineering,Bachelor of Engineering (Hons) (Aerospace Engineering),80,75,3645,3492,3702,3500,3250,4210,bachelor of engineering  (aerospace engineering),1,Engineering
-2017,NTU,College of Engineering,Double Degree in Bachelor of Engineering (Hons) (Aerospace Engineering) and Bachelor of Arts (Hons) in Economics **,na,na,na,na,na,na,na,na,double degree in bachelor of engineering  (aerospace engineering) and bachelor of arts  in economics,1,Engineering
+2017,NTU,College of Engineering,Double Degree in Bachelor of Engineering (Hons) (Aerospace Engineering) and Bachelor of Arts (Hons) in Economics **,,,,,,,,,double degree in bachelor of engineering  (aerospace engineering) and bachelor of arts  in economics,1,Engineering
 2017,NTU,College of Engineering,Bachelor of Engineering (Hons) (Bioengineering),78.3,65.2,3326,3200,3486,3419,3000,3825,bachelor of engineering  (bioengineering),1,Engineering
 2017,NTU,College of Engineering,Bachelor of Engineering  (Hons) (Chemical And Biomolecular Engineering),82.3,75.3,3326,3200,3577,3500,3200,4000,bachelor of engineering  (chemical and biomolecular engineering),1,Engineering
-2017,NTU,College of Engineering,Double Degree in Bachelor of Engineering  (Hons) (Chemical And Biomolecular Engineering) and Bachelor of Arts (Hons) in Economics **,na,na,na,na,na,na,na,na,double degree in bachelor of engineering  (chemical and biomolecular engineering) and bachelor of arts  in economics,1,Engineering
+2017,NTU,College of Engineering,Double Degree in Bachelor of Engineering  (Hons) (Chemical And Biomolecular Engineering) and Bachelor of Arts (Hons) in Economics **,,,,,,,,,double degree in bachelor of engineering  (chemical and biomolecular engineering) and bachelor of arts  in economics,1,Engineering
 2017,NTU,College of Engineering,Bachelor of Engineering (Hons) (Civil Engineering),98.5,96.9,3373,3300,3442,3400,3190,3675,bachelor of engineering  (civil engineering),1,Engineering
-2017,NTU,College of Engineering,Double Degree in Bachelor of Engineering (Hons) (Civil Engineering) and Bachelor of Arts (Hons) in Economics **,na,na,na,na,na,na,na,na,double degree in bachelor of engineering  (civil engineering) and bachelor of arts  in economics,1,Engineering
+2017,NTU,College of Engineering,Double Degree in Bachelor of Engineering (Hons) (Civil Engineering) and Bachelor of Arts (Hons) in Economics **,,,,,,,,,double degree in bachelor of engineering  (civil engineering) and bachelor of arts  in economics,1,Engineering
 2017,NTU,College of Engineering,Bachelor of Engineering (Hons) (Computer Engineering),95.1,87.8,3667,3600,3743,3600,3450,3925,bachelor of engineering  (computer engineering),1,Engineering
 2017,NTU,College of Engineering,Bachelor of Engineering (Hons) (Computer Science),92.4,86.7,4078,3750,4160,3850,3500,4500,bachelor of engineering  (computer science),1,Engineering
-2017,NTU,College of Engineering,Double Degree in Bachelor of Business (Hons) and Bachelor of Engineering (Hons) (Computer Engineering) **,na,na,na,na,na,na,na,na,double degree in bachelor of business  and bachelor of engineering  (computer engineering),1,Engineering
+2017,NTU,College of Engineering,Double Degree in Bachelor of Business (Hons) and Bachelor of Engineering (Hons) (Computer Engineering) **,,,,,,,,,double degree in bachelor of business  and bachelor of engineering  (computer engineering),1,Engineering
 2017,NTU,College of Engineering,Bachelor of Engineering (Hons) (Electrical & Electronic Engineering),89.3,85,3532,3500,3657,3600,3200,4000,bachelor of engineering  (electrical & electronic engineering),1,Engineering
 2017,NTU,College of Engineering,Bachelor of Engineering (Hons) (Environmental Engineering),71.8,64.1,3538,3475,3588,3635,3200,3950,bachelor of engineering  (environmental engineering),1,Science
 2017,NTU,College of Engineering,Bachelor of Engineering (Hons) (Information Engineering & Media),86.9,78.7,3685,3677,3790,3700,3350,4200,bachelor of engineering  (information engineering & media),1,Engineering
-2017,NTU,College of Engineering,Double Degree in Bachelor of Engineering (Hons) (Information Engineering & Media) and Bachelor of Arts (Hons) in Economics **,na,na,na,na,na,na,na,na,double degree in bachelor of engineering  (information engineering & media) and bachelor of arts  in economics,1,Engineering
+2017,NTU,College of Engineering,Double Degree in Bachelor of Engineering (Hons) (Information Engineering & Media) and Bachelor of Arts (Hons) in Economics **,,,,,,,,,double degree in bachelor of engineering  (information engineering & media) and bachelor of arts  in economics,1,Engineering
 2017,NTU,College of Engineering,Bachelor of Science (Hons) (Maritime Studies),92.2,92.2,3279,3200,3333,3320,3000,3500,bachelor of science  (maritime studies),1,Engineering
 2017,NTU,College of Engineering,Bachelor of Engineering (Hons) (Materials Engineering),84.9,75.6,3288,3200,3434,3375,3200,3700,bachelor of engineering  (materials engineering),1,Engineering
-2017,NTU,College of Engineering,Double Degree in Bachelor of Engineering (Hons) (Materials Engineering) and Bachelor of Arts (Hons) in Economics **,na,na,na,na,na,na,na,na,double degree in bachelor of engineering  (materials engineering) and bachelor of arts  in economics,1,Engineering
+2017,NTU,College of Engineering,Double Degree in Bachelor of Engineering (Hons) (Materials Engineering) and Bachelor of Arts (Hons) in Economics **,,,,,,,,,double degree in bachelor of engineering  (materials engineering) and bachelor of arts  in economics,1,Engineering
 2017,NTU,College of Engineering,Bachelor of Engineering (Hons) (Mechanical Engineering),82.7,74.9,3422,3300,3579,3450,3100,4000,bachelor of engineering  (mechanical engineering),1,Engineering
-2017,NTU,College of Engineering,Double Degree in Bachelor of Engineering (Hons) (Mechanical Engineering) and Bachelor of Arts (Hons) in Economics **,na,na,na,na,na,na,na,na,double degree in bachelor of engineering  (mechanical engineering) and bachelor of arts  in economics,1,Engineering
+2017,NTU,College of Engineering,Double Degree in Bachelor of Engineering (Hons) (Mechanical Engineering) and Bachelor of Arts (Hons) in Economics **,,,,,,,,,double degree in bachelor of engineering  (mechanical engineering) and bachelor of arts  in economics,1,Engineering
 2017,NTU,College of Engineering,Bachelor of Fine Arts (Hons),88.5,54,2862,2800,2909,2800,2500,3200,bachelor of fine arts,1,Others
 2017,NTU,College of Engineering,Bachelor of Arts (Hons) in Chinese,84.6,67.7,3119,3300,3147,3300,2750,3500,bachelor of arts  in chinese,1,Arts and Humanities
 2017,NTU,College of Engineering,Bachelor of Communication Studies (Hons),92.6,62.2,3134,3000,3184,3000,2775,3500,bachelor of communication studies,1,Arts and Humanities
@@ -457,7 +457,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2017,NTU,College of Engineering,Bachelor of Arts (Hons) in English,77.8,50.8,3042,3000,3149,3000,2800,3300,bachelor of arts  in english,1,Arts and Humanities
 2017,NTU,College of Engineering,Bachelor of Arts (Hons) in History,86,68.4,3206,3100,3265,3200,3000,3600,bachelor of arts  in history,1,Arts and Humanities
 2017,NTU,College of Engineering,Bachelor of Arts (Hons) in Linguistics And Multilingual Studies,80,60,3042,3000,3117,3100,2600,3500,bachelor of arts  in linguistics and multilingual studies,1,Arts and Humanities
-2017,NTU,College of Engineering,Bachelor of Arts (Hons) in Philosophy **,na,na,na,na,na,na,na,na,bachelor of arts  in philosophy,1,Arts and Humanities
+2017,NTU,College of Engineering,Bachelor of Arts (Hons) in Philosophy **,,,,,,,,,bachelor of arts  in philosophy,1,Arts and Humanities
 2017,NTU,College of Engineering,Bachelor of Arts (Hons) in Psychology,78.9,59.2,3107,3107,3151,3200,2890,3500,bachelor of arts  in psychology,1,Social Sciences
 2017,NTU,College of Engineering,Bachelor of Arts (Hons) in Public Policy And Global Affairs,74.1,66.7,3353,3300,3479,3395,3160,3750,bachelor of arts  in public policy and global affairs,1,Social Sciences
 2017,NTU,College of Engineering,Bachelor of Arts (Hons) in Sociology,77.6,62.1,3263,3200,3309,3228,2970,3500,bachelor of arts  in sociology,1,Social Sciences
@@ -484,21 +484,21 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2017,NUS,Faculty Of Engineering,Bachelor of Engineering (Materials Science And Engineering),94,86,3269,3200,3570,3388,3200,3950,bachelor of engineering (materials science and engineering),0,Engineering
 2017,NUS,Faculty Of Engineering,Bachelor of Engineering (Mechanical Engineering),87.3,82.3,3537,3400,3657,3450,3100,4000,bachelor of engineering (mechanical engineering),0,Engineering
 2017,NUS,Faculty of Law,Bachelor of Laws #,95.8,92.3,4958,5000,5121,5000,4500,5600,bachelor of laws,0,Law
-2017,NUS,Faculty of Science,Bachelor of Applied Science **,na,na,na,na,na,na,na,na,bachelor of applied science,0,Science
+2017,NUS,Faculty of Science,Bachelor of Applied Science **,,,,,,,,,bachelor of applied science,0,Science
 2017,NUS,Faculty of Science,Bachelor of Applied Science (Hons),82.1,50,3186,3075,3187,3085,2800,3200,bachelor of applied science,1,Science
 2017,NUS,Faculty of Science,Bachelor of Science,76.9,54.5,3053,3000,3214,3082,2800,3400,bachelor of science,0,Science
 2017,NUS,Faculty of Science,Bachelor of Science (Hons),85.9,69.3,3340,3200,3435,3300,3000,3700,bachelor of science,1,Science
-2017,NUS,Faculty of Science,Bachelor of Science (Computational Biology) **,na,na,na,na,na,na,na,na,bachelor of science (computational biology),0,Science
+2017,NUS,Faculty of Science,Bachelor of Science (Computational Biology) **,,,,,,,,,bachelor of science (computational biology),0,Science
 2017,NUS,Faculty of Science,Bachelor of Science (Pharmacy) #,99.1,94.5,3473,3500,3616,3600,3500,3800,bachelor of science (pharmacy),0,Medicine and Health Sciences
 2017,NUS,NUS Business School,Bachelor of Business Administration,94.9,87.3,3770,3400,4031,3500,3000,4333,bachelor of business administration,0,Business and Management
 2017,NUS,NUS Business School,Bachelor of Business Administration (Hons),98.2,93.6,4272,3725,4388,3800,3450,4782,bachelor of business administration,1,Business and Management
 2017,NUS,NUS Business School,Bachelor of Business Administration (Accountancy),97.2,94.4,3396,3000,3473,3025,3000,3600,bachelor of business administration (accountancy),0,Business and Management
 2017,NUS,NUS Business School,Bachelor of Business Administration (Accountancy) (Hons),100,100,3689,3100,3744,3125,3000,4023,bachelor of business administration (accountancy),1,Business and Management
-2017,NUS,School of Computing,Bachelor of Computing (Communications And Media) **,na,na,na,na,na,na,na,na,bachelor of computing (communications and media),0,Arts and Humanities
-2017,NUS,School of Computing,Bachelor of Computing (Computational Biology) **,na,na,na,na,na,na,na,na,bachelor of computing (computational biology),0,Computer Science and IT
+2017,NUS,School of Computing,Bachelor of Computing (Communications And Media) **,,,,,,,,,bachelor of computing (communications and media),0,Arts and Humanities
+2017,NUS,School of Computing,Bachelor of Computing (Computational Biology) **,,,,,,,,,bachelor of computing (computational biology),0,Computer Science and IT
 2017,NUS,School of Computing,Bachelor of Computing (Computer Science),93.5,89.4,4510,4200,4628,4285,3656,5000,bachelor of computing (computer science),0,Computer Science and IT
-2017,NUS,School of Computing,Bachelor of Computing (Electronic Commerce) **,na,na,na,na,na,na,na,na,bachelor of computing (electronic commerce),0,Computer Science and IT
-2017,NUS,School of Computing,Bachelor of Computing (Information Security) **,na,na,na,na,na,na,na,na,bachelor of computing (information security),0,Computer Science and IT
+2017,NUS,School of Computing,Bachelor of Computing (Electronic Commerce) **,,,,,,,,,bachelor of computing (electronic commerce),0,Computer Science and IT
+2017,NUS,School of Computing,Bachelor of Computing (Information Security) **,,,,,,,,,bachelor of computing (information security),0,Computer Science and IT
 2017,NUS,School of Computing,Bachelor of Computing (Information Systems),94.5,91.8,4061,4000,4192,4000,3550,4592,bachelor of computing (information systems),0,Computer Science and IT
 2017,NUS,School of Computing,Bachelor of Science (Business Analytics),97.6,97.6,4114,3810,4203,4000,3500,4766,bachelor of science (business analytics),0,Business and Management
 2017,NUS,School of Design & Environment,Bachelor of Arts (Architecture) #,91.3,86.4,4037,4000,4079,4000,3780,4300,bachelor of arts (architecture),0,Others
@@ -541,10 +541,10 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2017,SIT,Technische Universität München,Bachelor of Science in Chemical Engineering,84.5,74.1,3061,3000,3301,3200,3000,3375,bachelor of science in chemical engineering,0,Engineering
 2017,SIT,Technische Universität München,Bachelor of Science in Electrical Engineering & Information Technology,82.8,82.8,3504,3175,3591,3400,3000,4000,bachelor of science in electrical engineering & information technology,0,Engineering
 2017,SIT,The Culinary Institute of America,Bachelor of Professional Studies in Culinary Arts Management,87.9,54.5,2357,2300,2598,2300,2200,3259,bachelor of professional studies in culinary arts management,0,Business and Management
-2017,SIT,Singapore Institute of Technology -Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Diagnostic Radiography) **,na,na,na,na,na,na,na,na,bachelor in science (diagnostic radiography),0,Medicine and Health Sciences
+2017,SIT,Singapore Institute of Technology -Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Diagnostic Radiography) **,,,,,,,,,bachelor in science (diagnostic radiography),0,Medicine and Health Sciences
 2017,SIT,Singapore Institute of Technology -Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Occupational Therapy),100,97.1,3217,3250,3258,3300,3020,3450,bachelor in science (occupational therapy),0,Medicine and Health Sciences
 2017,SIT,Singapore Institute of Technology -Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Physiotherapy),100,96.8,3483,3350,3489,3400,3300,3500,bachelor in science (physiotherapy),0,Medicine and Health Sciences
-2017,SIT,Singapore Institute of Technology -Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Radiation Therapy) **,na,na,na,na,na,na,na,na,bachelor in science (radiation therapy),0,Medicine and Health Sciences
+2017,SIT,Singapore Institute of Technology -Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Radiation Therapy) **,,,,,,,,,bachelor in science (radiation therapy),0,Medicine and Health Sciences
 2017,SIT,University of Glasgow,Bachelor of Engineering with Honours in Aeronautical Engineering,81.3,65.6,3367,3100,3481,3200,2950,3700,bachelor of engineering with in aeronautical engineering,1,Engineering
 2017,SIT,University of Glasgow,Bachelor of Engineering with Honours in Aerospace Systems,80,52.5,3207,3125,3280,3125,2625,3650,bachelor of engineering with in aerospace systems,1,Engineering
 2017,SIT,University of Glasgow,Bachelor of Engineering with Honours in Mechanical Design Engineering,96.6,87.9,3608,3100,3670,3200,3000,3700,bachelor of engineering with in mechanical design engineering,1,Engineering
@@ -555,25 +555,25 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2017,SIT,Wheelock College,Bachelor of Science in Early Childhood Education,96.4,92.9,2883,2900,2890,2900,2800,3000,bachelor of science in early childhood education,0,Education
 2017,SIT,Singapore Institute of Technology,Bachelor of Accountancy with Honours,94.1,92.1,3073,3050,3113,3088,2975,3250,bachelor of accountancy with,1,Business and Management
 2017,SIT,Singapore Institute of Technology,Bachelor of Hospitality Business with Honours ^,94.7,84.2,2713,2700,2829,2800,2500,3100,bachelor of hospitality business with,1,Business and Management
-2017,SUTD,na,Bachelor of Engineering (Engineering Product Development),89.9,87.3,3594,3600,3638,3600,3450,3800,bachelor of engineering (engineering product development),0,Engineering
-2017,SUTD,na,Bachelor of Engineering (Information Systems Technology and Design),100,100,4146,4000,4175,4023,3600,4900,bachelor of engineering (information systems technology and design),0,Computer Science and IT
-2017,SUTD,na,Bachelor of Engineering (Engineering Systems and Design),91.7,85.4,3856,3800,3956,3850,3600,4210,bachelor of engineering (engineering systems and design),0,Engineering
-2017,SUTD,na,Bachelor of Science (Architecture and Sustainable Design) ###,na,na,na,na,na,na,na,na,bachelor of science (architecture and sustainable design),0,Others
+2017,SUTD,,Bachelor of Engineering (Engineering Product Development),89.9,87.3,3594,3600,3638,3600,3450,3800,bachelor of engineering (engineering product development),0,Engineering
+2017,SUTD,,Bachelor of Engineering (Information Systems Technology and Design),100,100,4146,4000,4175,4023,3600,4900,bachelor of engineering (information systems technology and design),0,Computer Science and IT
+2017,SUTD,,Bachelor of Engineering (Engineering Systems and Design),91.7,85.4,3856,3800,3956,3850,3600,4210,bachelor of engineering (engineering systems and design),0,Engineering
+2017,SUTD,,Bachelor of Science (Architecture and Sustainable Design) ###,,,,,,,,,bachelor of science (architecture and sustainable design),0,Others
 2018,NTU,College of Business (Nanyang Business School),Bachelor of Accountancy (Hons),94.6,92.2,3214,3000,3245,3000,3000,3200,bachelor of accountancy,1,Business and Management
 2018,NTU,College of Business (Nanyang Business School),Bachelor of Business (Hons),92.6,84.3,3646,3500,3776,3500,3200,4000,bachelor of business,1,Business and Management
 2018,NTU,College of Engineering,Aerospace Engineering,95.3,88.4,3710,3625,3873,3800,3365,4280,aerospace engineering,0,Engineering
-2018,NTU,College of Engineering,Aerospace Engineering and Economics **,na,na,na,na,na,na,na,na,aerospace engineering and economics,0,Engineering
+2018,NTU,College of Engineering,Aerospace Engineering and Economics **,,,,,,,,,aerospace engineering and economics,0,Engineering
 2018,NTU,College of Engineering,Bioengineering,77.5,66.2,3457,3500,3660,3500,3200,4000,bioengineering,0,Engineering
-2018,NTU,College of Engineering,Business and Computer Engineering **,na,na,na,na,na,na,na,na,business and computer engineering,0,Engineering
+2018,NTU,College of Engineering,Business and Computer Engineering **,,,,,,,,,business and computer engineering,0,Engineering
 2018,NTU,College of Engineering,Chemical & Biomolecular Engineering,91.6,86,3461,3500,3782,3600,3300,4200,chemical & biomolecular engineering,0,Engineering
-2018,NTU,College of Engineering,Chemical & Biomolecular Engineering and Economics **,na,na,na,na,na,na,na,na,chemical & biomolecular engineering and economics,0,Engineering
+2018,NTU,College of Engineering,Chemical & Biomolecular Engineering and Economics **,,,,,,,,,chemical & biomolecular engineering and economics,0,Engineering
 2018,NTU,College of Engineering,Civil Engineering,96.5,96.5,3521,3400,3597,3500,3200,3816,civil engineering,0,Engineering
 2018,NTU,College of Engineering,Computer Engineering,95.8,95.8,3749,3700,3865,3775,3400,4200,computer engineering,0,Engineering
-2018,NTU,College of Engineering,Computer Engineering and Economics **,na,na,na,na,na,na,na,na,computer engineering and economics,0,Engineering
+2018,NTU,College of Engineering,Computer Engineering and Economics **,,,,,,,,,computer engineering and economics,0,Engineering
 2018,NTU,College of Engineering,Computer Science,94.4,93,3970,3800,4062,4000,3500,4500,computer science,0,Computer Science and IT
 2018,NTU,College of Engineering,Electrical & Electronic Engineering,92.7,91,3625,3500,3772,3600,3323,4000,electrical & electronic engineering,0,Engineering
 2018,NTU,College of Engineering,Environmental Engineering,92.1,81.6,3388,3360,3485,3400,3000,3500,environmental engineering,0,Science
-2018,NTU,College of Engineering,Environmental Engineering and Economics **,na,na,na,na,na,na,na,na,environmental engineering and economics,0,Science
+2018,NTU,College of Engineering,Environmental Engineering and Economics **,,,,,,,,,environmental engineering and economics,0,Science
 2018,NTU,College of Engineering,Information Engineering & Media,93.2,89,3724,3725,3800,3750,3500,4140,information engineering & media,0,Engineering
 2018,NTU,College of Engineering,Maritime Studies,93.3,90,3351,3300,3409,3350,3000,3640,maritime studies,0,Engineering
 2018,NTU,College of Engineering,Materials Engineering,86.5,81.9,3457,3400,3650,3500,3200,4000,materials engineering,0,Engineering
@@ -590,7 +590,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2018,NTU,"College of Humanities, Arts & Social Sciences",Public Policy and Global Affairs,80.6,71,3501,3350,3619,3350,3050,4018,public policy and global affairs,0,Social Sciences
 2018,NTU,"College of Humanities, Arts & Social Sciences",Sociology,80.2,60.4,3275,3175,3374,3220,3000,3841,sociology,0,Social Sciences
 2018,NTU,College of Sciences,Biological Sciences,80.1,67,3232,3200,3319,3250,3035,3650,biological sciences,0,Science
-2018,NTU,College of Sciences,Biomedical Sciences **,na,na,na,na,na,na,na,na,biomedical sciences,0,Medicine and Health Sciences
+2018,NTU,College of Sciences,Biomedical Sciences **,,,,,,,,,biomedical sciences,0,Medicine and Health Sciences
 2018,NTU,College of Sciences,Biomedical Sciences & Chinese Medicine # ^,90.9,81.8,2941,3000,2953,3000,2700,3100,biomedical sciences & chinese medicine,0,Medicine and Health Sciences
 2018,NTU,College of Sciences,Chemistry & Biological Chemistry,77.6,63.9,3205,3167,3427,3200,3000,3725,chemistry & biological chemistry,0,Science
 2018,NTU,College of Sciences,Environmental Earth Systems Sciences ^,76.2,57.1,3347,3440,3389,3440,3150,3900,environmental earth systems sciences,0,Science
@@ -600,7 +600,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2018,NTU,National Institute of Education (NIE),Arts (With Education),100,99.2,3618,3750,3751,3800,3600,3806,arts (with education),0,Education
 2018,NTU,National Institute of Education (NIE),Science (With Education),100,100,3600,3800,3738,3800,3600,4000,science (with education),0,Education
 2018,NTU,Sports Science and Management,Sport Science and Management,87,61.1,3172,3200,3382,3300,3000,3600,sport science and management,0,Business and Management
-2018,NTU,Lee Kong Chian School of Medicine,Medicine ##,na,na,na,na,na,na,na,na,medicine,0,Medicine and Health Sciences
+2018,NTU,Lee Kong Chian School of Medicine,Medicine ##,,,,,,,,,medicine,0,Medicine and Health Sciences
 2018,NUS,Faculty of Arts & Social Sciences,Bachelor of Arts,83.7,56.6,3169,3070,3322,3200,2800,3600,bachelor of arts,0,Arts and Humanities
 2018,NUS,Faculty of Arts & Social Sciences,Bachelor of Arts (Hons),87.5,60.8,3290,3300,3377,3300,3000,3600,bachelor of arts,1,Arts and Humanities
 2018,Singapore University of Social Sciences,School of Business,Bachelor of Accountancy,98.7,97.5,2858,2850,2879,3000,2700,3000,bachelor of accountancy,0,Business and Management
@@ -610,7 +610,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2018,NUS,Faculty of Engineering,Bachelor of Engineering (Chemical Engineering),89.9,84.1,3768,3700,4050,4000,3500,4300,bachelor of engineering (chemical engineering),0,Engineering
 2018,NUS,Faculty of Engineering,Bachelor of Engineering (Civil Engineering),91.8,89.8,3520,3500,3627,3500,3300,3900,bachelor of engineering (civil engineering),0,Engineering
 2018,NUS,Faculty of Engineering,Bachelor of Engineering (Electrical Engineering),91,83.4,3712,3600,3982,3700,3400,4546,bachelor of engineering (electrical engineering),0,Engineering
-2018,NUS,Faculty of Engineering,Bachelor of Engineering (Engineering Science) **,na,na,na,na,na,na,na,na,bachelor of engineering (engineering science),0,Engineering
+2018,NUS,Faculty of Engineering,Bachelor of Engineering (Engineering Science) **,,,,,,,,,bachelor of engineering (engineering science),0,Engineering
 2018,NUS,Faculty of Engineering,Bachelor of Engineering (Environmental Engineering),88.9,74.6,3411,3300,3518,3400,3000,3868,bachelor of engineering (environmental engineering),0,Science
 2018,NUS,Faculty of Engineering,Bachelor of Engineering (Industrial and Systems Engineering),91.5,87.8,3889,3800,4051,3895,3600,4500,bachelor of engineering (industrial and systems engineering),0,Engineering
 2018,NUS,Faculty of Engineering,Bachelor of Engineering (Materials Science and Engineering),88.6,86.4,3550,3600,3794,3600,3500,4305,bachelor of engineering (materials science and engineering),0,Engineering
@@ -618,24 +618,24 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2018,NUS,Faculty of Law,Bachelor of Laws #,97.3,92.6,5070,5000,5263,5500,4500,5840,bachelor of laws,0,Law
 2018,NUS,Faculty of Science,Bachelor of Science,81.6,47.2,3146,3000,3289,3100,2900,3850,bachelor of science,0,Science
 2018,NUS,Faculty of Science,Bachelor of Science (Hons),87.3,72.8,3371,3300,3460,3400,3000,3725,bachelor of science,1,Science
-2018,NUS,Faculty of Science,Bachelor of Science (Computational Biology) **,na,na,na,na,na,na,na,na,bachelor of science (computational biology),0,Science
+2018,NUS,Faculty of Science,Bachelor of Science (Computational Biology) **,,,,,,,,,bachelor of science (computational biology),0,Science
 2018,NUS,Faculty of Science,Bachelor of Science (Pharmacy) #,96.6,93.2,3549,3500,3723,3650,3500,3900,bachelor of science (pharmacy),0,Medicine and Health Sciences
 2018,NUS,NUS Business School,Bachelor of Business Administration,95.7,84.8,3633,3150,3732,3225,3000,3750,bachelor of business administration,0,Business and Management
 2018,NUS,NUS Business School,Bachelor of Business Administration (Hons),96.6,90.9,4286,3800,4424,3895,3300,4748,bachelor of business administration,1,Business and Management
 2018,NUS,NUS Business School,Bachelor of Business Administration (Accountancy) ^,95.2,95.2,3209,3000,3522,3020,2700,3500,bachelor of business administration (accountancy),0,Business and Management
 2018,NUS,NUS Business School,Bachelor of Business Administration (Accountancy) (Hons),97.6,95.3,3643,3100,3683,3200,3000,4000,bachelor of business administration (accountancy),1,Business and Management
-2018,NUS,School of Computing,Bachelor of Computing (Communications and Media) **,na,na,na,na,na,na,na,na,bachelor of computing (communications and media),0,Arts and Humanities
-2018,NUS,School of Computing,Bachelor of Computing (Computational Biology) **,na,na,na,na,na,na,na,na,bachelor of computing (computational biology),0,Computer Science and IT
+2018,NUS,School of Computing,Bachelor of Computing (Communications and Media) **,,,,,,,,,bachelor of computing (communications and media),0,Arts and Humanities
+2018,NUS,School of Computing,Bachelor of Computing (Computational Biology) **,,,,,,,,,bachelor of computing (computational biology),0,Computer Science and IT
 2018,NUS,School of Computing,Bachelor of Computing (Computer Science),96.9,91.8,4577,4280,4658,4320,3900,5000,bachelor of computing (computer science),0,Computer Science and IT
-2018,NUS,School of Computing,Bachelor of Computing (Electronic Commerce) **,na,na,na,na,na,na,na,na,bachelor of computing (electronic commerce),0,Computer Science and IT
-2018,NUS,School of Computing,Bachelor of Computing (Information Security) **,na,na,na,na,na,na,na,na,bachelor of computing (information security),0,Computer Science and IT
+2018,NUS,School of Computing,Bachelor of Computing (Electronic Commerce) **,,,,,,,,,bachelor of computing (electronic commerce),0,Computer Science and IT
+2018,NUS,School of Computing,Bachelor of Computing (Information Security) **,,,,,,,,,bachelor of computing (information security),0,Computer Science and IT
 2018,NUS,School of Computing,Bachelor of Computing (Information Systems),98.4,95.3,4338,4375,4472,4458,4000,5000,bachelor of computing (information systems),0,Computer Science and IT
 2018,NUS,School of Computing,Bachelor of Science (Business Analytics),93.5,93.5,4432,4400,4499,4500,4000,5000,bachelor of science (business analytics),0,Business and Management
-2018,NUS,School of Design & Environment,Bachelor of Arts (Architecture) # **,na,na,na,na,na,na,na,na,bachelor of arts (architecture),0,Others
+2018,NUS,School of Design & Environment,Bachelor of Arts (Architecture) # **,,,,,,,,,bachelor of arts (architecture),0,Others
 2018,NUS,School of Design & Environment,Bachelor of Arts (Industrial Design),87,69.6,3309,3200,3371,3250,3000,3800,bachelor of arts (industrial design),0,Design and Media
 2018,NUS,School of Design & Environment,Bachelor of Science (Project and Facilities Management),89,84.6,3189,3040,3237,3060,3000,3300,bachelor of science (project and facilities management),0,Business and Management
 2018,NUS,School of Design & Environment,Bachelor of Science (Real Estate),91.7,85.1,3295,3300,3372,3300,3000,3600,bachelor of science (real estate),0,Science
-2018,NUS,YLL School of Medicine,Bachelor of Medicine and Bachelor of Surgery # **,na,na,na,na,na,na,na,na,bachelor of medicine and bachelor of surgery,0,Medicine and Health Sciences
+2018,NUS,YLL School of Medicine,Bachelor of Medicine and Bachelor of Surgery # **,,,,,,,,,bachelor of medicine and bachelor of surgery,0,Medicine and Health Sciences
 2018,NUS,YLL School of Medicine,Bachelor of Science (Nursing),94.6,94.6,3230,3250,3469,3450,3300,3500,bachelor of science (nursing),0,Science
 2018,NUS,YLL School of Medicine,Bachelor of Science (Nursing) (Hons),98,98,3306,3350,3546,3550,3400,3750,bachelor of science (nursing),1,Science
 2018,NUS,Yong Siew Toh Conservatory of Music,Bachelor of Music,81,23.8,2000,1750,2100,1800,1500,2700,bachelor of music,0,Others
@@ -664,7 +664,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2018,SIT,SIT-Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Diagnostic Radiography) ^,95.8,87.5,3476,3300,3571,3350,3300,3800,bachelor in science (diagnostic radiography),0,Medicine and Health Sciences
 2018,SIT,SIT-Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Occupational Therapy),96.6,96.6,3409,3450,3431,3460,3300,3610,bachelor in science (occupational therapy),0,Medicine and Health Sciences
 2018,SIT,SIT-Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Physiotherapy),100,100,3258,3300,3276,3300,3000,3600,bachelor in science (physiotherapy),0,Medicine and Health Sciences
-2018,SIT,SIT-Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Radiation Therapy) **,na,na,na,na,na,na,na,na,bachelor in science (radiation therapy),0,Medicine and Health Sciences
+2018,SIT,SIT-Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Radiation Therapy) **,,,,,,,,,bachelor in science (radiation therapy),0,Medicine and Health Sciences
 2018,SIT,Technische Universität München,Bachelor of Science in Chemical Engineering,83.7,75.5,3048,3000,3298,3200,3000,3550,bachelor of science in chemical engineering,0,Engineering
 2018,SIT,Technische Universität München,Bachelor of Science in Electrical Engineering & Information Technology,83.3,69.4,3506,3500,3609,3500,3300,4000,bachelor of science in electrical engineering & information technology,0,Engineering
 2018,SIT,The Culinary Institute of America,Bachelor of Business Administration in Food Business Management,86.5,64.9,2643,2530,2929,2663,2415,3300,bachelor of business administration in food business management,0,Business and Management
@@ -691,31 +691,31 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2018,SMU,School of Law (4-year programme) *,Law (Cum Laude and above) #,94.4,92.6,4986,4750,5256,5513,4500,6000,law (cum laude and above),0,Law
 2018,Singapore University of Social Sciences,School of Business,Bachelor of Science in Finance,88,84,3364,3400,3393,3400,3200,3500,bachelor of science in finance,0,Business and Management
 2018,Singapore University of Social Sciences,School of Business,Bachelor of Science in Marketing,94,84,2925,3000,3023,3000,2650,3245,bachelor of science in marketing,0,Business and Management
-2018,SUTD,na,Bachelor of Engineering (Engineering Product Development),94.7,86.3,3773,3700,3826,3700,3500,4000,bachelor of engineering (engineering product development),0,Engineering
-2018,SUTD,na,Bachelor of Engineering (Information Systems Technology and Design),97.3,93.3,4448,4300,4544,4400,4000,5000,bachelor of engineering (information systems technology and design),0,Computer Science and IT
-2018,SUTD,na,Bachelor of Engineering (Engineering Systems and Design),90,90,3798,3800,3893,3800,3600,4000,bachelor of engineering (engineering systems and design),0,Engineering
-2018,SUTD,na,Bachelor of Science (Architecture and Sustainable Design),95.1,88.5,3848,3900,3945,4000,3600,4215,bachelor of science (architecture and sustainable design),0,Others
+2018,SUTD,,Bachelor of Engineering (Engineering Product Development),94.7,86.3,3773,3700,3826,3700,3500,4000,bachelor of engineering (engineering product development),0,Engineering
+2018,SUTD,,Bachelor of Engineering (Information Systems Technology and Design),97.3,93.3,4448,4300,4544,4400,4000,5000,bachelor of engineering (information systems technology and design),0,Computer Science and IT
+2018,SUTD,,Bachelor of Engineering (Engineering Systems and Design),90,90,3798,3800,3893,3800,3600,4000,bachelor of engineering (engineering systems and design),0,Engineering
+2018,SUTD,,Bachelor of Science (Architecture and Sustainable Design),95.1,88.5,3848,3900,3945,4000,3600,4215,bachelor of science (architecture and sustainable design),0,Others
 2019,NTU,College of Business (Nanyang Business School),Bachelor of Accountancy (Hons),97.5,94,3220,3000,3254,3000,3000,3200,bachelor of accountancy,1,Business and Management
 2019,NTU,College of Business (Nanyang Business School),Bachelor of Business (Hons),93.8,83.1,3707,3500,3797,3600,3200,4000,bachelor of business,1,Business and Management
 2019,NTU,College of Engineering,Aerospace Engineering,87.5,80.7,3816,3700,3939,3800,3500,4600,aerospace engineering,0,Engineering
-2019,NTU,College of Engineering,Aerospace Engineering and Economics **,na,na,na,na,na,na,na,na,aerospace engineering and economics,0,Engineering
+2019,NTU,College of Engineering,Aerospace Engineering and Economics **,,,,,,,,,aerospace engineering and economics,0,Engineering
 2019,NTU,College of Engineering,Bioengineering,81.3,64.1,3445,3400,3548,3500,3200,3700,bioengineering,0,Engineering
-2019,NTU,College of Engineering,Business and Computer Engineering **,na,na,na,na,na,na,na,na,business and computer engineering,0,Engineering
+2019,NTU,College of Engineering,Business and Computer Engineering **,,,,,,,,,business and computer engineering,0,Engineering
 2019,NTU,College of Engineering,Chemical and Biomolecular Engineering,88.6,78.1,3681,3600,3921,3800,3500,4300,chemical and biomolecular engineering,0,Engineering
-2019,NTU,College of Engineering,Chemical and Biomolecular Engineering and Economics **,na,na,na,na,na,na,na,na,chemical and biomolecular engineering and economics,0,Engineering
+2019,NTU,College of Engineering,Chemical and Biomolecular Engineering and Economics **,,,,,,,,,chemical and biomolecular engineering and economics,0,Engineering
 2019,NTU,College of Engineering,Civil Engineering,94.9,90.6,3525,3400,3582,3500,3300,3900,civil engineering,0,Engineering
-2019,NTU,College of Engineering,Civil Engineering and Economics **,na,na,na,na,na,na,na,na,civil engineering and economics,0,Engineering
+2019,NTU,College of Engineering,Civil Engineering and Economics **,,,,,,,,,civil engineering and economics,0,Engineering
 2019,NTU,College of Engineering,Computer Engineering,94.6,94.6,3994,4000,4074,4000,3600,4500,computer engineering,0,Engineering
 2019,NTU,College of Engineering,Computer Science,97.4,95.9,4270,4050,4309,4200,3800,4900,computer science,0,Computer Science and IT
 2019,NTU,College of Engineering,Electrical and Electronic Engineering,92.6,87.1,3769,3700,3884,3700,3500,4000,electrical and electronic engineering,0,Engineering
 2019,NTU,College of Engineering,Environmental Engineering,83.9,77.4,3574,3500,3596,3510,3400,3800,environmental engineering,0,Science
-2019,NTU,College of Engineering,Environmental Engineering and Economics **,na,na,na,na,na,na,na,na,environmental engineering and economics,0,Science
+2019,NTU,College of Engineering,Environmental Engineering and Economics **,,,,,,,,,environmental engineering and economics,0,Science
 2019,NTU,College of Engineering,Information Engineering and Media,90.7,85.3,3934,3970,4006,4000,3600,4350,information engineering and media,0,Engineering
 2019,NTU,College of Engineering,Maritime Studies,98.3,93.2,3512,3400,3669,3500,3300,3700,maritime studies,0,Engineering
 2019,NTU,College of Engineering,Materials Engineering,82,76,3601,3500,3817,3600,3300,4175,materials engineering,0,Engineering
-2019,NTU,College of Engineering,Materials Engineering and Economics **,na,na,na,na,na,na,na,na,materials engineering and economics,0,Engineering
+2019,NTU,College of Engineering,Materials Engineering and Economics **,,,,,,,,,materials engineering and economics,0,Engineering
 2019,NTU,College of Engineering,Mechanical Engineering,84.5,82.1,3608,3500,3728,3600,3380,4005,mechanical engineering,0,Engineering
-2019,NTU,College of Engineering,Mechanical Engineering and Economics **,na,na,na,na,na,na,na,na,mechanical engineering and economics,0,Engineering
+2019,NTU,College of Engineering,Mechanical Engineering and Economics **,,,,,,,,,mechanical engineering and economics,0,Engineering
 2019,NTU,"College of Humanities, Arts & Social Sciences","Art, Design & Media",83.6,50.9,3031,3000,3068,3000,2800,3500,"art, design & media",0,Design and Media
 2019,NTU,"College of Humanities, Arts & Social Sciences",Chinese,90.1,79,3158,3150,3260,3210,2980,3500,chinese,0,Arts and Humanities
 2019,NTU,"College of Humanities, Arts & Social Sciences",Communication Studies,90.4,69.4,3220,3200,3264,3200,2800,3500,communication studies,0,Arts and Humanities
@@ -754,15 +754,15 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2019,NUS,Faculty of Law,Bachelor of Laws #,95.7,93,5068,5000,5160,5400,4500,5800,bachelor of laws,0,Law
 2019,NUS,Faculty of Science,Bachelor of Science,84,59.3,3181,3000,3320,3100,2900,3600,bachelor of science,0,Science
 2019,NUS,Faculty of Science,Bachelor of Science (Hons) ^,88.5,72.3,3510,3355,3605,3500,3100,3800,bachelor of science,1,Science
-2019,NUS,Faculty of Science,Bachelor of Science (Computational Biology) **,na,na,na,na,na,na,na,na,bachelor of science (computational biology),0,Science
+2019,NUS,Faculty of Science,Bachelor of Science (Computational Biology) **,,,,,,,,,bachelor of science (computational biology),0,Science
 2019,NUS,Faculty of Science,Bachelor of Science (Pharmacy) #,100,95.5,3648,3600,3840,3750,3500,4000,bachelor of science (pharmacy),0,Medicine and Health Sciences
 2019,NUS,NUS Business School,Bachelor of Business Administration,100,82.6,4799,4000,4925,4000,3400,5500,bachelor of business administration,0,Business and Management
 2019,NUS,NUS Business School,Bachelor of Business Administration (Hons),95.5,91,4451,4000,4593,4150,3500,5000,bachelor of business administration,1,Business and Management
 2019,NUS,NUS Business School,Bachelor of Business Administration (Accountancy) ^,93.8,93.8,3897,3000,4005,3000,3000,3800,bachelor of business administration (accountancy),0,Business and Management
 2019,NUS,NUS Business School,Bachelor of Business Administration (Accountancy) (Hons),97.8,97.8,4008,3500,4093,3600,3000,4500,bachelor of business administration (accountancy),1,Business and Management
 2019,NUS,School of Computing,Bachelor of Computing (Computer Science),92.8,90.6,5477,5000,5571,5000,4205,5585,bachelor of computing (computer science),0,Computer Science and IT
-2019,NUS,School of Computing,Bachelor of Computing (Electronic Commerce) **,na,na,na,na,na,na,na,na,bachelor of computing (electronic commerce),0,Computer Science and IT
-2019,NUS,School of Computing,Bachelor of Computing (Information Security) **,na,na,na,na,na,na,na,na,bachelor of computing (information security),0,Computer Science and IT
+2019,NUS,School of Computing,Bachelor of Computing (Electronic Commerce) **,,,,,,,,,bachelor of computing (electronic commerce),0,Computer Science and IT
+2019,NUS,School of Computing,Bachelor of Computing (Information Security) **,,,,,,,,,bachelor of computing (information security),0,Computer Science and IT
 2019,NUS,School of Computing,Bachelor of Computing (Information Systems),95.9,95.9,4210,4000,4330,4228,4000,4685,bachelor of computing (information systems),0,Computer Science and IT
 2019,NUS,School of Computing,Bachelor of Science (Business Analytics),100,100,4811,5000,4881,5000,4050,5200,bachelor of science (business analytics),0,Business and Management
 2019,NUS,School of Design & Environment,Bachelor of Arts (Architecture) #,100,96,4156,4010,4199,4100,3800,4500,bachelor of arts (architecture),0,Others
@@ -795,15 +795,15 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2019,SIT,SIT-Newcastle University,Bachelor of Engineering with Honours in Electrical Power Engineering ^,91.3,82.6,3489,3400,3542,3500,3250,3600,bachelor of engineering with in electrical power engineering,1,Engineering
 2019,SIT,SIT-Newcastle University,Bachelor of Engineering with Honours in Marine Engineering ^,100,100,3318,3300,3393,3300,3200,3521,bachelor of engineering with in marine engineering,1,Engineering
 2019,SIT,SIT-Newcastle University,Bachelor of Engineering with Honours in Mechanical Design and Manufacturing Engineering ^,80,66.7,3227,3100,3269,3100,3050,3500,bachelor of engineering with in mechanical design and manufacturing engineering,1,Engineering
-2019,SIT,SIT-Newcastle University,Bachelor of Engineering with Honours in Naval Architecture **,na,na,na,na,na,na,na,na,bachelor of engineering with in naval architecture,1,Others
-2019,SIT,SIT-Newcastle University,Bachelor of Engineering with Honours in Offshore Engineering **,na,na,na,na,na,na,na,na,bachelor of engineering with in offshore engineering,1,Engineering
-2019,SIT,SIT-Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Diagnostic Radiography) **,na,na,na,na,na,na,na,na,bachelor in science (diagnostic radiography),0,Medicine and Health Sciences
+2019,SIT,SIT-Newcastle University,Bachelor of Engineering with Honours in Naval Architecture **,,,,,,,,,bachelor of engineering with in naval architecture,1,Others
+2019,SIT,SIT-Newcastle University,Bachelor of Engineering with Honours in Offshore Engineering **,,,,,,,,,bachelor of engineering with in offshore engineering,1,Engineering
+2019,SIT,SIT-Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Diagnostic Radiography) **,,,,,,,,,bachelor in science (diagnostic radiography),0,Medicine and Health Sciences
 2019,SIT,SIT-Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Occupational Therapy),100,100,3429,3400,3466,3425,3308,3650,bachelor in science (occupational therapy),0,Medicine and Health Sciences
 2019,SIT,SIT-Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Physiotherapy),98.3,98.3,3479,3400,3498,3400,3400,3620,bachelor in science (physiotherapy),0,Medicine and Health Sciences
-2019,SIT,SIT-Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Radiation Therapy) **,na,na,na,na,na,na,na,na,bachelor in science (radiation therapy),0,Medicine and Health Sciences
+2019,SIT,SIT-Trinity College Dublin / Trinity College Dublin,Bachelor in Science (Radiation Therapy) **,,,,,,,,,bachelor in science (radiation therapy),0,Medicine and Health Sciences
 2019,SIT,SIT-University of Glasgow,Bachelor of Science with Honours in Nursing,100,95.8,3522,3500,3772,3800,3450,4085,bachelor of science with in nursing,1,Science
 2019,SIT,Technische Universität München,Bachelor of Science in Chemical Engineering,81.8,77.3,3213,3100,3471,3300,3110,3600,bachelor of science in chemical engineering,0,Engineering
-2019,SIT,Technische Universität München,Bachelor of Science in Electrical Engineering & Information Technology **,na,na,na,na,na,na,na,na,bachelor of science in electrical engineering & information technology,0,Engineering
+2019,SIT,Technische Universität München,Bachelor of Science in Electrical Engineering & Information Technology **,,,,,,,,,bachelor of science in electrical engineering & information technology,0,Engineering
 2019,SIT,The Culinary Institute of America,Bachelor of Business Administration in Food Business Management ^,81,61.9,2532,2350,2852,2625,2200,3350,bachelor of business administration in food business management,0,Business and Management
 2019,SIT,The Glasgow School of Art,Bachelor of Arts with Honours in Communication Design,78.7,55.3,2724,2800,2832,2800,2450,3000,bachelor of arts with in communication design,1,Design and Media
 2019,SIT,The Glasgow School of Art,Bachelor of Arts with Honours in Interior Design,87.1,80.6,2692,2700,2760,2700,2400,3000,bachelor of arts with in interior design,1,Design and Media
@@ -829,10 +829,10 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2019,Singapore University of Social Sciences,School of Business,Bachelor of Accountancy,91.1,83.3,2880,3000,2900,3000,2750,3000,bachelor of accountancy,0,Business and Management
 2019,Singapore University of Social Sciences,School of Business,Bachelor of Science in Finance,88.6,88.6,3708,3400,3722,3450,3085,3750,bachelor of science in finance,0,Business and Management
 2019,Singapore University of Social Sciences,School of Business,Bachelor of Science in Marketing,88.3,70,2993,3000,3169,3000,2800,3400,bachelor of science in marketing,0,Business and Management
-2019,SUTD,na,Bachelor of Engineering (Engineering Product Development),84.2,80.2,3991,3900,4042,4000,3660,4500,bachelor of engineering (engineering product development),0,Engineering
-2019,SUTD,na,Bachelor of Engineering (Information Systems Technology and Design),88.8,85.7,4599,4400,4636,4400,3800,5000,bachelor of engineering (information systems technology and design),0,Computer Science and IT
-2019,SUTD,na,Bachelor of Engineering (Engineering Systems and Design),89.9,87.3,3944,3800,4082,4000,3500,4400,bachelor of engineering (engineering systems and design),0,Engineering
-2019,SUTD,na,Bachelor of Science (Architecture and Sustainable Design),100,91.8,3923,3897,3985,3900,3600,4100,bachelor of science (architecture and sustainable design),0,Others
+2019,SUTD,,Bachelor of Engineering (Engineering Product Development),84.2,80.2,3991,3900,4042,4000,3660,4500,bachelor of engineering (engineering product development),0,Engineering
+2019,SUTD,,Bachelor of Engineering (Information Systems Technology and Design),88.8,85.7,4599,4400,4636,4400,3800,5000,bachelor of engineering (information systems technology and design),0,Computer Science and IT
+2019,SUTD,,Bachelor of Engineering (Engineering Systems and Design),89.9,87.3,3944,3800,4082,4000,3500,4400,bachelor of engineering (engineering systems and design),0,Engineering
+2019,SUTD,,Bachelor of Science (Architecture and Sustainable Design),100,91.8,3923,3897,3985,3900,3600,4100,bachelor of science (architecture and sustainable design),0,Others
 2020,NTU,College of Business (Nanyang Business School),Bachelor of Accountancy (Hons),96,88.7,3213,3000,3228,3000,3000,3100,bachelor of accountancy,1,Business and Management
 2020,NTU,College of Business (Nanyang Business School),Bachelor of Business (Hons),95.2,66.8,3973,3750,4113,3800,3300,4429,bachelor of business,1,Business and Management
 2020,NTU,College of Engineering,Aerospace Engineering,91.2,75.8,4110,3980,4284,4000,3800,4945,aerospace engineering,0,Engineering
@@ -965,10 +965,10 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2020,Singapore University of Social Sciences,School of Business,Bachelor of Science in Finance ^,100,50,3537,3163,3854,3163,2850,4466,bachelor of science in finance,0,Business and Management
 2020,Singapore University of Social Sciences,School of Business,Bachelor of Science in Marketing,92.1,51.3,3126,2900,3246,2900,2750,3520,bachelor of science in marketing,0,Business and Management
 2020,Singapore University of Social Sciences,School of Business,Bachelor of Science in Supply Chain Management ^,88,36,3125,3100,3284,3185,2950,3500,bachelor of science in supply chain management,0,Business and Management
-2020,SUTD,na,Bachelor of Engineering (Engineering Product Development),94.6,82.1,3809,3800,3901,3800,3500,4150,bachelor of engineering (engineering product development),0,Engineering
-2020,SUTD,na,Bachelor of Engineering (Engineering Systems and Design),95.2,77.1,4195,3950,4287,4000,3725,4900,bachelor of engineering (engineering systems and design),0,Engineering
-2020,SUTD,na,Bachelor of Engineering (Information Systems Technology and Design),96.9,85.4,4581,4500,4734,4500,4000,5000,bachelor of engineering (information systems technology and design),0,Computer Science and IT
-2020,SUTD,na,Bachelor of Science (Architecture and Sustainable Design),100,95.6,3897,3800,3982,3800,3500,4070,bachelor of science (architecture and sustainable design),0,Others
+2020,SUTD,,Bachelor of Engineering (Engineering Product Development),94.6,82.1,3809,3800,3901,3800,3500,4150,bachelor of engineering (engineering product development),0,Engineering
+2020,SUTD,,Bachelor of Engineering (Engineering Systems and Design),95.2,77.1,4195,3950,4287,4000,3725,4900,bachelor of engineering (engineering systems and design),0,Engineering
+2020,SUTD,,Bachelor of Engineering (Information Systems Technology and Design),96.9,85.4,4581,4500,4734,4500,4000,5000,bachelor of engineering (information systems technology and design),0,Computer Science and IT
+2020,SUTD,,Bachelor of Science (Architecture and Sustainable Design),100,95.6,3897,3800,3982,3800,3500,4070,bachelor of science (architecture and sustainable design),0,Others
 2021,NTU,College of Business (Nanyang Business School),Bachelor of Accountancy (Hons),97.7,93,3505,3300,3539,3400,3100,3500,bachelor of accountancy,1,Business and Management
 2021,NTU,College of Business (Nanyang Business School),Bachelor of Business (Hons),96.2,85.2,4211,4000,4362,4000,3500,4800,bachelor of business,1,Business and Management
 2021,NTU,College of Engineering,Aerospace Engineering,94.4,87.3,4250,4250,4321,4471,3792,5000,aerospace engineering,0,Engineering
@@ -1037,7 +1037,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2021,NUS,School of Design & Environment,Bachelor of Arts (Industrial Design),87.5,75,4146,3825,4178,3825,3200,4250,bachelor of arts (industrial design),0,Design and Media
 2021,NUS,School of Design & Environment,Bachelor of Science (Project and Facilities Management),93.1,92.1,3424,3450,3560,3500,3200,3700,bachelor of science (project and facilities management),0,Business and Management
 2021,NUS,School of Design & Environment,Bachelor of Science (Real Estate),94.5,82.4,3692,3575,3863,3700,3400,4000,bachelor of science (real estate),0,Science
-2021,NUS,Yong Loo Lin School (Medicine),Bachelor of Medicine and Bachelor of Surgery # **,na,na,na,na,na,na,na,na,bachelor of medicine and bachelor of surgery,0,Medicine and Health Sciences
+2021,NUS,Yong Loo Lin School (Medicine),Bachelor of Medicine and Bachelor of Surgery # **,,,,,,,,,bachelor of medicine and bachelor of surgery,0,Medicine and Health Sciences
 2021,NUS,Yong Loo Lin School (Medicine),Bachelor of Science (Nursing),96.2,93.3,3300,3350,3530,3550,3350,3750,bachelor of science (nursing),0,Science
 2021,NUS,Yong Loo Lin School (Medicine),Bachelor of Science (Nursing) (Hons),97.9,96.8,3482,3500,3750,3750,3550,3950,bachelor of science (nursing),1,Science
 2021,NUS,YST Conservatory of Music,Bachelor of Music ^,82.4,35.3,3136,2958,3203,3100,2915,3600,bachelor of music,0,Others
@@ -1098,10 +1098,10 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2021,Singapore University of Social Sciences,School of Business,Bachelor of Science in Finance,84.4,56.3,3856,3500,3862,3500,3300,4350,bachelor of science in finance,0,Business and Management
 2021,Singapore University of Social Sciences,School of Business,Bachelor of Science in Marketing,92.4,63.6,3303,3200,3411,3275,2820,3600,bachelor of science in marketing,0,Business and Management
 2021,Singapore University of Social Sciences,School of Business,Bachelor of Science in Supply Chain Management,97.4,79.5,3245,3200,3381,3300,3025,3500,bachelor of science in supply chain management,0,Business and Management
-2021,SUTD,na,Bachelor of Engineering (Computer Science and Design),98.3,96.7,4936,4800,5030,4800,4400,5414,bachelor of engineering (computer science and design),0,Engineering
-2021,SUTD,na,Bachelor of Engineering (Engineering Product Development),89.9,85.5,4047,4000,4141,4000,3750,4500,bachelor of engineering (engineering product development),0,Engineering
-2021,SUTD,na,Bachelor of Engineering (Engineering Systems and Design),95.5,90.9,4542,4500,4778,4700,3900,5000,bachelor of engineering (engineering systems and design),0,Engineering
-2021,SUTD,na,Bachelor of Science (Architecture and Sustainable Design),96.6,89.7,3800,3801,3842,3875,3430,4200,bachelor of science (architecture and sustainable design),0,Others
+2021,SUTD,,Bachelor of Engineering (Computer Science and Design),98.3,96.7,4936,4800,5030,4800,4400,5414,bachelor of engineering (computer science and design),0,Engineering
+2021,SUTD,,Bachelor of Engineering (Engineering Product Development),89.9,85.5,4047,4000,4141,4000,3750,4500,bachelor of engineering (engineering product development),0,Engineering
+2021,SUTD,,Bachelor of Engineering (Engineering Systems and Design),95.5,90.9,4542,4500,4778,4700,3900,5000,bachelor of engineering (engineering systems and design),0,Engineering
+2021,SUTD,,Bachelor of Science (Architecture and Sustainable Design),96.6,89.7,3800,3801,3842,3875,3430,4200,bachelor of science (architecture and sustainable design),0,Others
 2022,NUS,Faculty of Arts & Social Sciences,Bachelor of Arts,88.5,76.9,3808,3670,3928,3700,3500,4000,bachelor of arts,0,Arts and Humanities
 2022,NUS,Faculty of Arts & Social Sciences,Bachelor of Arts (Hons),87.5,74.4,3889,3850,4034,4000,3500,4390,bachelor of arts,1,Arts and Humanities
 2022,NUS,Faculty of Arts & Social Sciences,Bachelor of Social Sciences,92.3,81.1,3935,3650,4056,3795,3500,4350,bachelor of social sciences,0,Science
@@ -1109,7 +1109,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2022,NUS,Faculty of Law,Bachelor of Laws #,97.3,94.6,5935,6000,6182,6400,5500,6800,bachelor of laws,0,Law
 2022,NUS,Faculty of Science,Bachelor of Science ^,85.2,63,3630,3500,3823,3600,3500,4000,bachelor of science,0,Science
 2022,NUS,Faculty of Science,Bachelor of Science (Hons),90.6,80.1,4040,3720,4174,3850,3500,4500,bachelor of science,1,Science
-2022,NUS,Faculty of Science,Bachelor of Science (Computational Biology)**,na,na,na,na,na,na,na,na,bachelor of science (computational biology),0,Science
+2022,NUS,Faculty of Science,Bachelor of Science (Computational Biology)**,,,,,,,,,bachelor of science (computational biology),0,Science
 2022,NUS,Faculty of Science,Bachelor of Science (Pharmacy) #,98.4,95.1,3829,3798,4053,4000,3750,4250,bachelor of science (pharmacy),0,Medicine and Health Sciences
 2022,NUS,Faculty of Science,Bachelor of Science (Pharmaceutical Science) (Hons) ^,94.1,76.5,3769,3700,3808,3700,3400,4350,bachelor of science (pharmaceutical science),1,Science
 2022,NUS,Faculty of Science,Bachelor of Science (Data Science and Analytics),96.8,96.8,5562,5500,5616,5500,4628,6100,bachelor of science (data science and analytics),0,Computer Science and IT
@@ -1134,7 +1134,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2022,NUS,College of Design and Engineering,Bachelor of Arts (Architecture) #,96,92,4360,4300,4481,4400,4000,4800,bachelor of arts (architecture),0,Others
 2022,NUS,College of Design and Engineering,Bachelor of Arts (Industrial Design),66.7,43.3,4239,4500,4270,4500,3500,4500,bachelor of arts (industrial design),0,Design and Media
 2022,NUS,College of Design and Engineering,Bachelor of Science (Project and Facilities Management),98.4,92,3612,3500,3670,3555,3375,3855,bachelor of science (project and facilities management),0,Business and Management
-2022,NUS,Yong Loo Lin School (Medicine),Bachelor of Medicine and Bachelor of Surgery # **,na,na,na,na,na,na,na,na,bachelor of medicine and bachelor of surgery,0,Medicine and Health Sciences
+2022,NUS,Yong Loo Lin School (Medicine),Bachelor of Medicine and Bachelor of Surgery # **,,,,,,,,,bachelor of medicine and bachelor of surgery,0,Medicine and Health Sciences
 2022,NUS,Yong Loo Lin School (Medicine),Bachelor of Science (Nursing),94.8,91.3,3426,3350,3656,3600,3500,3825,bachelor of science (nursing),0,Science
 2022,NUS,Yong Loo Lin School (Medicine),Bachelor of Science (Nursing) (Hons),100,99,3575,3550,3834,3850,3650,4000,bachelor of science (nursing),1,Science
 2022,NUS,YST Conservatory of Music,Bachelor of Music ^,85.7,28.6,3661,3590,3661,3590,3350,3973,bachelor of music,0,Others
@@ -1193,10 +1193,10 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2022,SMU,School of Social Sciences (4-year programme) *,Social Sciences (Cum Laude and above),94.3,88.6,4351,4008,4576,4316,3795,4900,social sciences (cum laude and above),0,Science
 2022,SMU,School of Law (4-year programme) *,Law #,94.1,91.1,6063,6000,6221,6375,5500,6800,law,0,Law
 2022,SMU,School of Law (4-year programme) *,Law (Cum Laude and above) #,92.4,92.4,6226,6338,6429,6400,6000,7000,law (cum laude and above),0,Law
-2022,SUTD,na,Bachelor of Engineering (Computer Science and Design),91.2,86.8,5539,5000,5725,5190,4600,6600,bachelor of engineering (computer science and design),0,Engineering
-2022,SUTD,na,Bachelor of Engineering (Engineering Product Development),94.9,92.3,4266,4150,4408,4200,3900,5000,bachelor of engineering (engineering product development),0,Engineering
-2022,SUTD,na,Bachelor of Engineering (Engineering Systems and Design),89.5,86,4929,4500,5046,4500,4000,5300,bachelor of engineering (engineering systems and design),0,Engineering
-2022,SUTD,na,Bachelor of Science (Architecture and Sustainable Design) ###,90.6,84.9,4281,4100,4335,4100,3900,4500,bachelor of science (architecture and sustainable design),0,Others
+2022,SUTD,,Bachelor of Engineering (Computer Science and Design),91.2,86.8,5539,5000,5725,5190,4600,6600,bachelor of engineering (computer science and design),0,Engineering
+2022,SUTD,,Bachelor of Engineering (Engineering Product Development),94.9,92.3,4266,4150,4408,4200,3900,5000,bachelor of engineering (engineering product development),0,Engineering
+2022,SUTD,,Bachelor of Engineering (Engineering Systems and Design),89.5,86,4929,4500,5046,4500,4000,5300,bachelor of engineering (engineering systems and design),0,Engineering
+2022,SUTD,,Bachelor of Science (Architecture and Sustainable Design) ###,90.6,84.9,4281,4100,4335,4100,3900,4500,bachelor of science (architecture and sustainable design),0,Others
 2022,Singapore University of Social Sciences,S R Nathan School of Human Development,Bachelor of Early Childhood Education,88.1,79.7,3090,3100,3188,3200,3000,3338,bachelor of early childhood education,0,Education
 2022,Singapore University of Social Sciences,S R Nathan School of Human Development,Bachelor of Human Resource Management,93.8,75,3749,3525,3874,3588,3250,4000,bachelor of human resource management,0,Business and Management
 2022,Singapore University of Social Sciences,S R Nathan School of Human Development,Bachelor of Social Work,91.9,80.6,3529,3640,3536,3640,3500,3640,bachelor of social work,0,Other
@@ -1205,7 +1205,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2022,Singapore University of Social Sciences,School of Business,Bachelor of Science in Finance,97.2,86.1,4149,4000,4483,4000,3800,5250,bachelor of science in finance,0,Business and Management
 2022,Singapore University of Social Sciences,School of Business,Bachelor of Science in Marketing,87.2,75.6,3664,3500,3827,3600,3220,4100,bachelor of science in marketing,0,Business and Management
 2022,Singapore University of Social Sciences,School of Business,Bachelor of Science in Supply Chain Management,98.4,90.6,3629,3500,3702,3500,3300,3900,bachelor of science in supply chain management,0,Business and Management
-2022,Singapore University of Social Sciences,School of Law,Bachelor of Law **,na,na,na,na,na,na,na,na,bachelor of law,0,Law
+2022,Singapore University of Social Sciences,School of Law,Bachelor of Law **,,,,,,,,,bachelor of law,0,Law
 2022,SIT,DigiPen Institute of Technology,Bachelor of Arts in Game Design ^,67.9,60.7,3847.352941,3500,3883.823529,3600,3400,4250,bachelor of arts in game design,0,Design and Media
 2022,SIT,DigiPen Institute of Technology,Bachelor of Fine Arts in Digital Art and Animation,77.1,54.3,3605.789474,3500,3628.304211,3500,3000,3825,bachelor of fine arts in digital art and animation,0,Design and Media
 2022,SIT,DigiPen Institute of Technology,Bachelor of Science in Computer Science and Game Design,90.6,84.4,4592.846154,4375,4680.538462,4490,4250,5200,bachelor of science in computer science and game design,0,Design and Media
