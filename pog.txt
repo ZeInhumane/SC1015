@@ -1,0 +1,115 @@
+keyword_to_field = {
+    # Highly specific engineering fields first
+    'chemical and biomolecular engineering': 'Chemical Engineering',
+    'electrical and electronic engineering': 'Electrical Engineering',
+    'electrical engineering': 'Electrical Engineering',
+    'electrical power engineering': 'Electrical Engineering',
+    'civil engineering': 'Civil Engineering',
+    'environmental engineering': 'Environmental Engineering',
+    'industrial and systems engineering': 'Industrial and Systems Engineering',
+    'materials science and engineering': 'Materials Engineering',
+    'materials engineering': 'Materials Engineering',
+    'mechanical design and manufacturing engineering': 'Mechanical Engineering',
+    'mechanical engineering': 'Mechanical Engineering',
+    'aerospace engineering': 'Aerospace Engineering',
+    'bioengineering': 'Bioengineering',
+    'biomedical engineering': 'Bioengineering',
+    'marine engineering': 'Marine Engineering',
+    'naval architecture': 'Marine Engineering',
+    'mechatronics': 'Mechanical Engineering',
+    'aeronautical engineering': 'Aerospace Engineering',
+    'systems engineering': 'Systems Engineering',
+    'computer engineering': 'Computer Engineering',
+    'engineering science': 'Engineering Science',
+    'offshore engineering': 'Marine Engineering',
+    'telematics': 'Telematics (Intelligent Transportation Systems)',
+    'pharmaceutical engineering': 'Pharmaceutical Engineering',
+    'aircraft systems engineering': 'Aerospace Engineering',
+
+    # Specific IT/Computing fields
+    'computer science': 'Computer Science',
+    'computational biology': 'Computational Biology',
+    'data science and artificial intelligence': 'Data Science',
+    'business analytics': 'Business Analytics',
+    'information systems management': 'IT',
+    'information systems': 'IT',
+    'information security': 'Cybersecurity',
+    'electronic commerce': 'IT',
+    'communications and media': 'Media and Communications',
+
+    # Health-related fields
+    'diagnostic radiography': 'Health',
+    'radiation therapy': 'Health',
+    'occupational therapy': 'Health',
+    'physiotherapy': 'Health',
+    'medicine and surgery': 'Medicine',
+    'nursing': 'Nursing',
+    'pharmacy': 'Pharmacy',
+    'dentistry': 'Dentistry',
+    'food & human nutrition': 'Food Science and Nutrition',
+
+    # Sciences
+    'biomedical sciences': 'Biological Sciences',
+    'traditional chinese medicine': 'Traditional Chinese Medicine',
+    'biological sciences': 'Biological Sciences',
+    'environmental earth systems sciences': 'Environmental Science',
+    'chemistry and biological chemistry': 'Chemistry',
+    'physics': 'Physics',
+    'mathematics & economics': 'Mathematics & Economics',
+    'mathematical science': 'Mathematics',
+    'applied physics': 'Physics',
+    'sports science': 'Sports Science and Management',
+
+    # Business-related fields
+    'accountancy': 'Accountancy',
+    'business management': 'Business',
+    'business administration': 'Business',
+    'finance': 'Finance',
+    'marketing': 'Marketing',
+    'supply chain management': 'Supply Chain Management',
+    'hospitality business': 'Hospitality Management',
+    'culinary arts': 'Culinary Arts',
+
+    # Social sciences and humanities
+    'communication studies': 'Communication Studies',
+    'criminology and security': 'Criminology and Security',
+    'psychology': 'Psychology',
+    'public policy and global affairs': 'Public Policy',
+    'sociology': 'Sociology',
+    'economics': 'Economics',
+    'social sciences': 'Social Sciences',
+    'linguistics': 'Linguistics and Multilingual Studies',
+    'early childhood education': 'Education',
+    'education': 'Education',
+    'human resource management': 'Human Resource Management',
+    'social work': 'Social Work',
+
+    # Law
+    'laws': 'Law',
+
+    # Arts and Media
+    'fine arts': 'Fine Arts',
+    'digital arts & animation': 'Digital Arts & Animation',
+    'art, design & media': 'Art, Design & Media',
+    'communication design': 'Communication Design',
+    'interior design': 'Interior Design',
+    'music': 'Music',
+    'arts (architecture)': 'Architecture',
+    'architecture': 'Architecture',
+    'industrial design': 'Industrial Design',
+    'game design': 'Game Design',
+
+    # Built environment and real estate
+    'project and facilities management': 'Project and Facilities Management',
+    'real estate': 'Real Estate',
+
+    # General categories as a fallback
+    'maritime studies': 'Maritime Studies',
+    'history': 'History',
+    'english': 'English',
+    'philosophy': 'Philosophy',
+    'chinese': 'Chinese',
+    'applied science': 'Applied Science',
+    'environmental studies': 'Environmental Studies',
+    'professional studies': 'Professional Studies'
+}
