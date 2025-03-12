@@ -870,7 +870,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2020,NTU,"College of Humanities, Arts & Social Sciences",Economics,91.8,63.5,3756,3700,3926,3797,3400,4050,economics,0,Mathematics and Statistics
 2020,NTU,"College of Humanities, Arts & Social Sciences",English,90.9,43.2,3507,3450,3561,3450,3128,3900,english,0,Arts and Humanities
 2020,NTU,"College of Humanities, Arts & Social Sciences",History,87.2,44.7,3558,3575,3644,3650,3250,4025,history,0,Arts and Humanities
-2020,NTU,"College of Humanities, Arts & Social Sciences",Inter-Disciplinary Double Major ^,95.8,50,3608,3300,3797,3854,3200,4500,inter-disciplinary double major,0,Other
+2020,NTU,"College of Humanities, Arts & Social Sciences",Inter-Disciplinary Double Major ^,95.8,50,3608,3300,3797,3854,3200,4500,inter-disciplinary double major,0,Others
 2020,NTU,"College of Humanities, Arts & Social Sciences",Linguistics,96.6,63.8,3371,3300,3472,3350,3000,3900,linguistics,0,Arts and Humanities
 2020,NTU,"College of Humanities, Arts & Social Sciences",Philosophy,96.3,70.4,3417,3300,3580,3650,3300,3850,philosophy,0,Arts and Humanities
 2020,NTU,"College of Humanities, Arts & Social Sciences",Psychology,83.8,53.5,3315,3200,3433,3300,3100,3650,psychology,0,Social Sciences
@@ -976,7 +976,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2020,SMU,School of Law (4-year programme) *,Law (Cum Laude and above) #,97,95.5,5053,5000,5141,5000,4500,5735,law (cum laude and above),0,Law
 2020,SUSS,S R Nathan School of Human Development,Bachelor of Early Childhood Education ^,100,88.2,2879,3000,2879,3000,2700,3016,bachelor of early childhood education,0,Education
 2020,SUSS,S R Nathan School of Human Development,Bachelor of Human Resource Management,90.6,22.6,2947,2750,3051,2950,2650,3300,bachelor of human resource management,0,Business and Management
-2020,SUSS,S R Nathan School of Human Development,Bachelor of Social Work,97.3,89.2,3443,3500,3486,3500,3450,3655,bachelor of social work,0,Other
+2020,SUSS,S R Nathan School of Human Development,Bachelor of Social Work,97.3,89.2,3443,3500,3486,3500,3450,3655,bachelor of social work,0,Others
 2020,SUSS,School of Business,Bachelor of Accountancy,94.6,81.7,3059,3000,3116,3000,3000,3000,bachelor of accountancy,0,Business and Management
 2020,SUSS,School of Business,Bachelor of Science in Finance ^,100,50,3537,3163,3854,3163,2850,4466,bachelor of science in finance,0,Business and Management
 2020,SUSS,School of Business,Bachelor of Science in Marketing,92.1,51.3,3126,2900,3246,2900,2750,3520,bachelor of science in marketing,0,Business and Management
@@ -1008,7 +1008,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2021,NTU,"College of Humanities, Arts & Social Sciences",Economics,93.5,88.3,3658,3500,3720,3650,3300,4000,economics,0,Mathematics and Statistics
 2021,NTU,"College of Humanities, Arts & Social Sciences",English,95.5,64.2,3254,3300,3354,3500,3000,3600,english,0,Arts and Humanities
 2021,NTU,"College of Humanities, Arts & Social Sciences",History,82.2,66.7,3724,3675,3800,3675,3500,4000,history,0,Arts and Humanities
-2021,NTU,"College of Humanities, Arts & Social Sciences",Inter-Disciplinary Double Major ^,92.9,75,3794,3650,3822,3650,3450,4180,inter-disciplinary double major,0,Other
+2021,NTU,"College of Humanities, Arts & Social Sciences",Inter-Disciplinary Double Major ^,92.9,75,3794,3650,3822,3650,3450,4180,inter-disciplinary double major,0,Others
 2021,NTU,"College of Humanities, Arts & Social Sciences",Linguistics,87.2,70.2,3351,3300,3398,3300,3000,3850,linguistics,0,Arts and Humanities
 2021,NTU,"College of Humanities, Arts & Social Sciences",Philosophy,88.5,57.7,3394,3400,3502,3400,2915,4480,philosophy,0,Arts and Humanities
 2021,NTU,"College of Humanities, Arts & Social Sciences",Psychology,91.8,71.8,3342,3300,3362,3350,3000,3500,psychology,0,Social Sciences
@@ -1110,7 +1110,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2021,SMU,School of Law (4-year programme) *,Law (Cum Laude and above) #,100,98.8,5613,5600,5754,5800,5025,6000,law (cum laude and above),0,Law
 2021,SUSS,S R Nathan School of Human Development,Bachelor of Early Childhood Education,93,88.4,2949,3000,2963,3000,2800,3100,bachelor of early childhood education,0,Education
 2021,SUSS,S R Nathan School of Human Development,Bachelor of Human Resource Management,95.6,80.9,3249,3200,3412,3200,3000,3500,bachelor of human resource management,0,Business and Management
-2021,SUSS,S R Nathan School of Human Development,Bachelor of Social Work,94.7,86.8,3432,3530,3461,3530,3400,3580,bachelor of social work,0,Other
+2021,SUSS,S R Nathan School of Human Development,Bachelor of Social Work,94.7,86.8,3432,3530,3461,3530,3400,3580,bachelor of social work,0,Others
 2021,SUSS,School of Business,Bachelor of Accountancy,98.6,89,3199,3200,3231,3200,3000,3400,bachelor of accountancy,0,Business and Management
 2021,SUSS,School of Business,Bachelor of Science in Business Analytics,93.5,83.9,4218,3800,4372,3800,3350,4900,bachelor of science in business analytics,0,Business and Management
 2021,SUSS,School of Business,Bachelor of Science in Finance,84.4,56.3,3856,3500,3862,3500,3300,4350,bachelor of science in finance,0,Business and Management
@@ -1184,7 +1184,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2022,NTU,"College of Humanities, Arts & Social Sciences",Economics,88.7,81.7,4187,4000,4270,4000,3600,4550,economics,0,Mathematics and Statistics
 2022,NTU,"College of Humanities, Arts & Social Sciences",English,94.9,77.2,3574,3500,3699,3748,3200,4200,english,0,Arts and Humanities
 2022,NTU,"College of Humanities, Arts & Social Sciences",History,86.5,80.8,3819,3800,3966,4000,3500,4250,history,0,Arts and Humanities
-2022,NTU,"College of Humanities, Arts & Social Sciences",Inter-Disciplinary Double Major8,87.9,66.7,4135,4200,4258,4271,3650,4750,inter-disciplinary double major8,0,Other
+2022,NTU,"College of Humanities, Arts & Social Sciences",Inter-Disciplinary Double Major8,87.9,66.7,4135,4200,4258,4271,3650,4750,inter-disciplinary double major8,0,Others
 2022,NTU,"College of Humanities, Arts & Social Sciences",Linguistics,94.1,72.5,3452,3400,3513,3500,3150,3810,linguistics,0,Arts and Humanities
 2022,NTU,"College of Humanities, Arts & Social Sciences",Philosophy ^,78.3,69.6,3476,3300,3515,3450,3000,3700,philosophy,0,Arts and Humanities
 2022,NTU,"College of Humanities, Arts & Social Sciences",Psychology,79.8,69.7,3688,3635,3743,3668,3300,4015,psychology,0,Social Sciences
@@ -1219,7 +1219,7 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2022,SUTD,,Bachelor of Science (Architecture and Sustainable Design) ###,90.6,84.9,4281,4100,4335,4100,3900,4500,bachelor of science (architecture and sustainable design),0,Others
 2022,SUSS,S R Nathan School of Human Development,Bachelor of Early Childhood Education,88.1,79.7,3090,3100,3188,3200,3000,3338,bachelor of early childhood education,0,Education
 2022,SUSS,S R Nathan School of Human Development,Bachelor of Human Resource Management,93.8,75,3749,3525,3874,3588,3250,4000,bachelor of human resource management,0,Business and Management
-2022,SUSS,S R Nathan School of Human Development,Bachelor of Social Work,91.9,80.6,3529,3640,3536,3640,3500,3640,bachelor of social work,0,Other
+2022,SUSS,S R Nathan School of Human Development,Bachelor of Social Work,91.9,80.6,3529,3640,3536,3640,3500,3640,bachelor of social work,0,Others
 2022,SUSS,School of Business,Bachelor of Accountancy,96.4,94.6,3576,3600,3635,3600,3500,3663,bachelor of accountancy,0,Business and Management
 2022,SUSS,School of Business,Bachelor of Science in Business Analytics,93,86,4432,4500,4540,4660,4000,5000,bachelor of science in business analytics,0,Business and Management
 2022,SUSS,School of Business,Bachelor of Science in Finance,97.2,86.1,4149,4000,4483,4000,3800,5250,bachelor of science in finance,0,Business and Management
