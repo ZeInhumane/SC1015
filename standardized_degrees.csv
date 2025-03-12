@@ -73,10 +73,10 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2013,NUS,Faculty of Science,Bachelor of Science (Hons),83.6,74,3101,3000,3217,3100,2868,3500
 2013,NUS,Faculty of Science,Bachelor of Science (Computational Biology) **,na,na,na,na,na,na,na,na
 2013,NUS,Faculty of Science,Bachelor of Science (Pharmacy) (Hons) #,96.4,96.4,3473,3500,3540,3500,3350,3750
-2013,SMU,School of Accountancy (4-year programme) *,Accountancy,94.2,93.2,3231,2800,3342,2825,2700,3430
-2013,SMU,School of Accountancy (4-year programme) *,Accountancy Cum Laude and above,95.2,95.2,3580,2900,3634,3000,2700,3750
-2013,SMU,School of Business (4-year programme) *,Business Management,93.2,87.3,3344,3000,3520,3200,2800,3750
-2013,SMU,School of Business (4-year programme) *,Business Management Cum Laude and above,95.9,93.8,3825,3500,3975,3580,3000,4100
+2013,SMU,School of Accountancy (4-year programme) *,Accountancy (4-years programme),94.2,93.2,3231,2800,3342,2825,2700,3430
+2013,SMU,School of Accountancy (4-year programme) *,Accountancy (4-years programme) Cum Laude and above,95.2,95.2,3580,2900,3634,3000,2700,3750
+2013,SMU,School of Business (4-year programme) *,Business Management (4-years programme),93.2,87.3,3344,3000,3520,3200,2800,3750
+2013,SMU,School of Business (4-year programme) *,Business Management (4-years programme) Cum Laude and above,95.9,93.8,3825,3500,3975,3580,3000,4100
 2013,SMU,School of Economics (4-year programme) *,Economics (4-years programme),90.6,88.6,3389,3200,3513,3339,3000,3800
 2013,SMU,School of Economics (4-year programme) *,Economics (4-years programme) Cum Laude and above,94,94,3731,3500,3820,3600,3250,4000
 2013,SMU,School of Information Systems (4-year programme) *,Information Systems Management (4-years programme),93.6,89.5,3389,3300,3468,3300,3000,3800
@@ -157,10 +157,10 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2014,NUS,Faculty of Science,Bachelor of Science (Hons),86.6,75.8,3224,3200,3328,3210,2950,3600
 2014,NUS,Faculty of Science,Bachelor of Science (Computational Biology) **,na,na,na,na,na,na,na,na
 2014,NUS,Faculty of Science,Bachelor of Science (Pharmacy) (Hons) #,98.9,96.7,3467,3500,3670,3630,3470,4000
-2014,SMU,School of Accountancy (4-year programme) *,Accountancy,93.6,91.4,3375,2850,3420,2875,2722,3614
-2014,SMU,School of Accountancy (4-year programme) *,Accountancy Cum Laude and above,97.4,96.1,3871,3450,3903,3500,2875,4300
-2014,SMU,School of Business (4-year programme) *,Business Management,90.9,86.4,3630,3250,3752,3333,3000,4000
-2014,SMU,School of Business (4-year programme) *,Business Management Cum Laude and above,94.5,94,4019,3500,4116,3600,3200,4500
+2014,SMU,School of Accountancy (4-year programme) *,Accountancy (4-year programme),93.6,91.4,3375,2850,3420,2875,2722,3614
+2014,SMU,School of Accountancy (4-year programme) *,Accountancy (4-year programme) Cum Laude and above,97.4,96.1,3871,3450,3903,3500,2875,4300
+2014,SMU,School of Business (4-year programme) *,Business Management (4-year programme),90.9,86.4,3630,3250,3752,3333,3000,4000
+2014,SMU,School of Business (4-year programme) *,Business Management (4-year programme) Cum Laude and above,94.5,94,4019,3500,4116,3600,3200,4500
 2014,SMU,School of Economics (4-year programme) *,Economics (4-year programme),90.2,83.9,3525,3500,3645,3500,3175,4000
 2014,SMU,School of Economics (4-year programme) *,Economics (4-year programme) Cum Laude and above,90.6,89.1,3815,3800,3824,3800,3300,4350
 2014,SMU,School of Information Systems (4-year programme) *,Information Systems Management (4-year programme),92.9,80.6,3431,3225,3530,3350,3000,4000
@@ -690,9 +690,9 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2018,SIT,University of Liverpool,Bachelor of Arts with Honours in Criminology and Security,91.9,74.2,3645,3500,3726,3729,3260,4100
 2018,SIT,Wheelock College,Bachelor of Science in Early Childhood Education,100,98.2,2897,2925,2911,2925,2800,3100
 2018,SMU,School of Accountancy (4-year programme) *,Accountancy,96.4,92.3,3576,3000,3607,3000,3000,3650
-2018,SMU,School of Accountancy (4-year programme) *,Accountancy Cum Laude and above,96.3,95.1,4396,3450,4439,3550,3013,4773
+2018,SMU,School of Accountancy (4-year programme) *,Accountancy (Cum Laude and above),96.3,95.1,4396,3450,4439,3550,3013,4773
 2018,SMU,School of Business (4-year programme) *,Business Management,91.6,86.5,4017,3600,4133,3700,3250,4500
-2018,SMU,School of Business (4-year programme) *,Business Management Cum Laude and above,97.4,95.6,4433,4000,4544,4000,3500,4800
+2018,SMU,School of Business (4-year programme) *,Business Management (Cum Laude and above),97.4,95.6,4433,4000,4544,4000,3500,4800
 2018,SMU,School of Economics (4-year programme) *,Economics,91.1,85.6,4017,3500,4140,3700,3200,4600
 2018,SMU,School of Economics (4-year programme) *,Economics (Cum Laude and above),93.4,89.5,4599,4000,4721,4000,3500,5200
 2018,SMU,School of Information Systems (4-year programme) *,Information Systems,93.6,89.5,4058,4000,4160,4000,3600,4600
@@ -828,9 +828,9 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2019,SIT,University of Glasgow,Bachelor of Science with Honours in Computing Science,92.3,89.2,4294,4000,4366,4200,3700,5100
 2019,SIT,University of Liverpool,Bachelor of Arts with Honours in Criminology and Security,80.2,70.4,3647,3526,3823,3695,3400,4050
 2019,SMU,School of Accountancy (4-year programme) *,Accountancy,96.4,93.7,3753,3000,3802,3050,3000,4000
-2019,SMU,School of Accountancy (4-year programme) *,Accountancy Cum Laude and above,97.9,97.9,4364,3500,4431,3600,3000,5000
+2019,SMU,School of Accountancy (4-year programme) *,Accountancy (Cum Laude and above),97.9,97.9,4364,3500,4431,3600,3000,5000
 2019,SMU,School of Business (4-year programme) *,Business Management,91,84.8,4056,3600,4181,3750,3300,4600
-2019,SMU,School of Business (4-year programme) *,Business Management Cum Laude and above,93,90.4,4504,4000,4614,4167,3600,5120
+2019,SMU,School of Business (4-year programme) *,Business Management (Cum Laude and above),93,90.4,4504,4000,4614,4167,3600,5120
 2019,SMU,School of Economics (4-year programme) *,Economics,87.1,81.3,4042,3800,4159,3900,3500,4500
 2019,SMU,School of Economics (4-year programme) *,Economics (Cum Laude and above),94.2,89.9,4401,4000,4520,4038,3600,4600
 2019,SMU,School of Information Systems (4-year programme) *,Information Systems,95.1,90.2,4413,4166,4549,4300,4000,5000
@@ -963,9 +963,9 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2020,SIT,University of Glasgow,Bachelor of Science with Honours in Computing Science,98.6,89.9,4517,5000,4530,5000,4000,5000
 2020,SIT,University of Liverpool,Bachelor of Arts with Honours in Criminology and Security,93.7,68.4,3634,3480,3919,3700,3400,4300
 2020,SMU,School of Accountancy (4-year programme) *,Accountancy,94.7,86,3636,3050,3694,3100,3000,4000
-2020,SMU,School of Accountancy (4-year programme) *,Accountancy Cum Laude and above,96.3,86.1,3979,3600,4057,3744,3000,4583
+2020,SMU,School of Accountancy (4-year programme) *,Accountancy (Cum Laude and above),96.3,86.1,3979,3600,4057,3744,3000,4583
 2020,SMU,School of Business (4-year programme) *,Business Management,95.8,68.4,4183,3800,4293,3850,3440,4600
-2020,SMU,School of Business (4-year programme) *,Business Management Cum Laude and above,97.5,78.7,4596,4000,4688,4000,3600,5000
+2020,SMU,School of Business (4-year programme) *,Business Management (Cum Laude and above),97.5,78.7,4596,4000,4688,4000,3600,5000
 2020,SMU,School of Economics (4-year programme) *,Economics,91.5,70.5,4181,3750,4290,3800,3400,4500
 2020,SMU,School of Economics (4-year programme) *,Economics (Cum Laude and above),94.7,82.9,4670,4000,4749,4000,3660,5275
 2020,SMU,School of Information Systems (4-year programme) *,Information Systems,93.1,83.9,4548,4500,4683,4542,4000,5400
@@ -1097,9 +1097,9 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2021,SIT,The Glasgow School of Art,Bachelor of Arts with Honours in Interior Design,94.3,65.7,2761,3000,2807,3000,2500,3100
 2021,SIT,University of Liverpool,Bachelor of Arts with Honours in Criminology and Security,95.5,81.8,3807,3600,4001,3850,3400,4500
 2021,SMU,School of Accountancy (4-year programme) *,Accountancy,98.7,93,3751,3400,3814,3400,3200,4000
-2021,SMU,School of Accountancy (4-year programme) *,Accountancy Cum Laude and above,97.9,92.6,4161,3700,4213,3850,3300,4600
+2021,SMU,School of Accountancy (4-year programme) *,Accountancy (Cum Laude and above),97.9,92.6,4161,3700,4213,3850,3300,4600
 2021,SMU,School of Business (4-year programme) *,Business Management,96.6,86,4229,4000,4371,4000,3500,4650
-2021,SMU,School of Business (4-year programme) *,Business Management Cum Laude and above,96.6,90.3,4705,4333,4855,4480,3800,5043
+2021,SMU,School of Business (4-year programme) *,Business Management (Cum Laude and above),96.6,90.3,4705,4333,4855,4480,3800,5043
 2021,SMU,School of Economics (4-year programme) *,Economics,91.8,83.5,4641,4275,4777,4435,3800,5250
 2021,SMU,School of Economics (4-year programme) *,Economics (Cum Laude and above),94.1,91.2,5209,4750,5310,4900,4191,5810
 2021,SMU,School of Information Systems (4-year programme) *,Information Systems,98.2,94.6,4774,4860,4906,5000,4200,5350
@@ -1202,9 +1202,9 @@ year,university,school,degree,employment_rate_overall,employment_rate_ft_perm,ba
 2022,NTU,National Institute of Education (NIE),Sports Science,100,74.4,3657,3350,3762,3350,3200,4266
 2022,NTU,Lee Kong Chian School of Medicine,Medicine #,100,100,4779,4700,5532,5600,5199,6000
 2022,SMU,School of Accountancy (4-year programme) *,Accountancy,98.1,96.1,4432,3800,4497,3825,3600,4600
-2022,SMU,School of Accountancy (4-year programme) *,Accountancy Cum Laude and above,100,98,5040,4000,5097,4025,3600,5500
+2022,SMU,School of Accountancy (4-year programme) *,Accountancy (Cum Laude and above),100,98,5040,4000,5097,4025,3600,5500
 2022,SMU,School of Business (4-year programme) *,Business Management,94.3,86.5,4744,4208,4937,4400,3700,5200
-2022,SMU,School of Business (4-year programme) *,Business Management Cum Laude and above,97.4,93.1,5409,4600,5630,4800,4050,6084
+2022,SMU,School of Business (4-year programme) *,Business Management (Cum Laude and above),97.4,93.1,5409,4600,5630,4800,4050,6084
 2022,SMU,School of Economics (4-year programme) *,Economics,97.2,89.9,4665,4500,4824,4500,4000,5200
 2022,SMU,School of Economics (4-year programme) *,Economics (Cum Laude and above),100,98.6,5021,4500,5169,4500,4091,5700
 2022,SMU,School of Information Systems (4-year programme) *,Information Systems,95.1,93.4,5333,5235,5472,5400,4700,6166
