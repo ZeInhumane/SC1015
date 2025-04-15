@@ -74,22 +74,6 @@ Key features in the dataset:
 | YearsWithCurrManager       | Years with current manager                                                     |
 | TenureBucket               | Categorical tenure grouping (bucketed years at company)                        |
 
-
-## Team Roles
-The project is divided into two main roles:
-
-### Person A: Data Preprocessing and Exploratory Data Analysis (EDA)
-- Clean and preprocess the dataset.
-- Perform exploratory data analysis to uncover trends and relationships.
-- Visualize key insights (e.g., heatmap to see which factors have high correlations with our response variable).
-
-### Person B: Machine Learning Modeling & Evaluation
-- Build predictive models for:
-  - **Attrition**: Binary classification.
-  - **MonthlyIncome**: Regression 
-- Evaluate model performance using appropriate metrics (R²,Mean Absolute Error, Mean Squared Error).
-- Interpret results and draw conclusions.
-
 ## Key Tasks
 1. **Data Preprocessing**:
    - Handle missing values. (Which we found to have none.)
