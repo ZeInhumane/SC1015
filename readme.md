@@ -1,5 +1,12 @@
 # HR Employment Attrition and Monthly Income Analysis
 
+## As part of SC1015 Mini-Project
+Lab Group FR1 Group 1
+
+Chan Jin How Matthew U2323106J
+
+Darren Tan Kai Jen U2323995J
+
 ## Background
 In this competitive job market, there are many factors which can impact people's outcomes of finding a job, whether they can survive in that job, whether they are able to cope with the income, etc. These days, we keep seeing new articles of not just any random company, but big name comapines like Google and SEA Group retrenching employees suddenly. 
 
